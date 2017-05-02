@@ -36,7 +36,7 @@ y[0, 1] = Extremal(0, 1)
 y[-1, 1] = Extremal(N-1, 1)
 for j in range(1, N-1):
     y[j, 1] = NextY(j, 1)
-    
+
 ### finishing from 2nd timestep and on
 for t in range(1, nt-1):
     y[0, t] = Extremal(0, t)
@@ -45,3 +45,20 @@ for t in range(1, nt-1):
         y[j, t] = NextY(j, t)
 
 ### plotting animation of waves
+
+fig  = plt.figure()
+
+ax = plt.axes(xlim(0, N+1), ylim(-1, 1))
+
+line, = plt.plot([], [])
+
+def init():
+    line.set_data([], [])
+    return line
+
+def animate(i):
+    line.set_data(y[:,i])
+    return line,
+anim = man.FuncAnimation(fig, animatem init_func=init, frames=100, interval=20, blit=True)
+
+plt.show()
