@@ -1,0 +1,1135 @@
+<!DOCTYPE html>
+<!-- saved from url=(0049)https://www.luminpdf.com/viewer/Db769bdeEjMPCXJP3 -->
+<html dir="ltr"><head style="cursor: auto;"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" type="text/css" class="__meteor-css__" href="./oblig_forside_2017_files/c7be50ea0ddbdd61cdb16a939f083111e4b4bc54.css" style="cursor: auto;">  <link rel="stylesheet" type="text/css" class="__meteor-css__" href="./oblig_forside_2017_files/ed4239ec9be21e60c0971d2354cf461cfe6153c9.css" style="cursor: auto;">
+<script src="./oblig_forside_2017_files/cb=gapi.loaded_1" async="" style="cursor: auto;"></script><script src="./oblig_forside_2017_files/cb=gapi.loaded_0" async="" style="cursor: auto;"></script><script type="text/inject-data" style="cursor: auto;">%7B%22fast-render-data%22%3A%7B%22collectionData%22%3A%7B%22users%22%3A%5B%5B%7B%22profile%22%3A%7B%22name%22%3A%22Anders%20Gjolme%20Eriksen%22%2C%22rating%22%3A4%7D%2C%22_id%22%3A%22qoQpNBXtdW9TDFanr%22%7D%5D%5D%2C%22kadira_settings%22%3A%5B%5B%7B%22appId%22%3A%22r9xsnZ6FReQPnLvG9%22%2C%22endpoint%22%3A%22https%3A%2F%2Fenginex.kadira.io%22%2C%22clientEngineSyncDelay%22%3A10000%2C%22enableErrorTracking%22%3Atrue%2C%22_id%22%3A%229W6Qgb3Py3r67ZYb9%22%7D%5D%5D%7D%2C%22subscriptions%22%3A%7B%7D%2C%22loginToken%22%3A%22BFlW64UmwWpm57Q0kUdH1Rx0aNQA8dYUv1rsOjteN_j%22%7D%7D</script>
+<script id="irga-analytics" async="" src="./oblig_forside_2017_files/analytics.js.download" style="cursor: auto;"></script>
+
+  
+  
+  
+  <link rel="stylesheet" href="./oblig_forside_2017_files/viewer.css" style="cursor: auto;">
+  <script type="text/javascript" src="./oblig_forside_2017_files/rangy-core.js.download" style="cursor: auto;"></script>
+  <script type="text/javascript" src="./oblig_forside_2017_files/rangy-serializer.js.download" style="cursor: auto;"></script>
+  <script type="text/javascript" src="./oblig_forside_2017_files/wz_jsgraphics.js.download" style="cursor: auto;"></script>
+  
+<meta name="fragment" content="!" style="cursor: auto;">
+
+    <link href="./oblig_forside_2017_files/css" rel="stylesheet" type="text/css" style="cursor: auto;">
+    <link href="./oblig_forside_2017_files/css(1)" rel="stylesheet" type="text/css" style="cursor: auto;">
+    <link href="./oblig_forside_2017_files/css(2)" rel="stylesheet" type="text/css" style="cursor: auto;">
+    <link href="./oblig_forside_2017_files/flaticon.css" rel="stylesheet" type="text/css" style="cursor: auto;">
+    
+
+    <link href="./oblig_forside_2017_files/css" rel="stylesheet" type="text/css" style="cursor: auto;">
+    <link href="./oblig_forside_2017_files/css(1)" rel="stylesheet" type="text/css" style="cursor: auto;">
+    <link href="./oblig_forside_2017_files/css(2)" rel="stylesheet" type="text/css" style="cursor: auto;">
+    <link href="./oblig_forside_2017_files/flaticon.css" rel="stylesheet" type="text/css" style="cursor: auto;">
+    
+
+	
+
+<style type="text/css" style="cursor: auto;"></style><style type="text/css" style="cursor: auto;"></style><title style="cursor: auto;">oblig_forside_2017.pdf - Lumin PDF</title><style type="text/css" style="cursor: auto;">/*!
+ *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */@font-face{font-family:'FontAwesome';src:url('../fonts/fontawesome-webfont.eot?v=4.7.0');src:url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'),url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'),url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'),url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'),url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-lg{font-size:1.33333333em;line-height:.75em;vertical-align:-15%}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-fw{width:1.28571429em;text-align:center}.fa-ul{padding-left:0;margin-left:2.14285714em;list-style-type:none}.fa-ul>li{position:relative}.fa-li{position:absolute;left:-2.14285714em;width:2.14285714em;top:.14285714em;text-align:center}.fa-li.fa-lg{left:-1.85714286em}.fa-border{padding:.2em .25em .15em;border:solid .08em #eee;border-radius:.1em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left{margin-right:.3em}.fa.fa-pull-right{margin-left:.3em}.pull-right{float:right}.pull-left{float:left}.fa.pull-left{margin-right:.3em}.fa.pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}.fa-rotate-90{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";-webkit-transform:rotate(270deg);-ms-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";-webkit-transform:scale(-1, 1);-ms-transform:scale(-1, 1);transform:scale(-1, 1)}.fa-flip-vertical{-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";-webkit-transform:scale(1, -1);-ms-transform:scale(1, -1);transform:scale(1, -1)}:root .fa-rotate-90,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-flip-horizontal,:root .fa-flip-vertical{filter:none}.fa-stack{position:relative;display:inline-block;width:2em;height:2em;line-height:2em;vertical-align:middle}.fa-stack-1x,.fa-stack-2x{position:absolute;left:0;width:100%;text-align:center}.fa-stack-1x{line-height:inherit}.fa-stack-2x{font-size:2em}.fa-inverse{color:#fff}.fa-glass:before{content:"\f000"}.fa-music:before{content:"\f001"}.fa-search:before{content:"\f002"}.fa-envelope-o:before{content:"\f003"}.fa-heart:before{content:"\f004"}.fa-star:before{content:"\f005"}.fa-star-o:before{content:"\f006"}.fa-user:before{content:"\f007"}.fa-film:before{content:"\f008"}.fa-th-large:before{content:"\f009"}.fa-th:before{content:"\f00a"}.fa-th-list:before{content:"\f00b"}.fa-check:before{content:"\f00c"}.fa-remove:before,.fa-close:before,.fa-times:before{content:"\f00d"}.fa-search-plus:before{content:"\f00e"}.fa-search-minus:before{content:"\f010"}.fa-power-off:before{content:"\f011"}.fa-signal:before{content:"\f012"}.fa-gear:before,.fa-cog:before{content:"\f013"}.fa-trash-o:before{content:"\f014"}.fa-home:before{content:"\f015"}.fa-file-o:before{content:"\f016"}.fa-clock-o:before{content:"\f017"}.fa-road:before{content:"\f018"}.fa-download:before{content:"\f019"}.fa-arrow-circle-o-down:before{content:"\f01a"}.fa-arrow-circle-o-up:before{content:"\f01b"}.fa-inbox:before{content:"\f01c"}.fa-play-circle-o:before{content:"\f01d"}.fa-rotate-right:before,.fa-repeat:before{content:"\f01e"}.fa-refresh:before{content:"\f021"}.fa-list-alt:before{content:"\f022"}.fa-lock:before{content:"\f023"}.fa-flag:before{content:"\f024"}.fa-headphones:before{content:"\f025"}.fa-volume-off:before{content:"\f026"}.fa-volume-down:before{content:"\f027"}.fa-volume-up:before{content:"\f028"}.fa-qrcode:before{content:"\f029"}.fa-barcode:before{content:"\f02a"}.fa-tag:before{content:"\f02b"}.fa-tags:before{content:"\f02c"}.fa-book:before{content:"\f02d"}.fa-bookmark:before{content:"\f02e"}.fa-print:before{content:"\f02f"}.fa-camera:before{content:"\f030"}.fa-font:before{content:"\f031"}.fa-bold:before{content:"\f032"}.fa-italic:before{content:"\f033"}.fa-text-height:before{content:"\f034"}.fa-text-width:before{content:"\f035"}.fa-align-left:before{content:"\f036"}.fa-align-center:before{content:"\f037"}.fa-align-right:before{content:"\f038"}.fa-align-justify:before{content:"\f039"}.fa-list:before{content:"\f03a"}.fa-dedent:before,.fa-outdent:before{content:"\f03b"}.fa-indent:before{content:"\f03c"}.fa-video-camera:before{content:"\f03d"}.fa-photo:before,.fa-image:before,.fa-picture-o:before{content:"\f03e"}.fa-pencil:before{content:"\f040"}.fa-map-marker:before{content:"\f041"}.fa-adjust:before{content:"\f042"}.fa-tint:before{content:"\f043"}.fa-edit:before,.fa-pencil-square-o:before{content:"\f044"}.fa-share-square-o:before{content:"\f045"}.fa-check-square-o:before{content:"\f046"}.fa-arrows:before{content:"\f047"}.fa-step-backward:before{content:"\f048"}.fa-fast-backward:before{content:"\f049"}.fa-backward:before{content:"\f04a"}.fa-play:before{content:"\f04b"}.fa-pause:before{content:"\f04c"}.fa-stop:before{content:"\f04d"}.fa-forward:before{content:"\f04e"}.fa-fast-forward:before{content:"\f050"}.fa-step-forward:before{content:"\f051"}.fa-eject:before{content:"\f052"}.fa-chevron-left:before{content:"\f053"}.fa-chevron-right:before{content:"\f054"}.fa-plus-circle:before{content:"\f055"}.fa-minus-circle:before{content:"\f056"}.fa-times-circle:before{content:"\f057"}.fa-check-circle:before{content:"\f058"}.fa-question-circle:before{content:"\f059"}.fa-info-circle:before{content:"\f05a"}.fa-crosshairs:before{content:"\f05b"}.fa-times-circle-o:before{content:"\f05c"}.fa-check-circle-o:before{content:"\f05d"}.fa-ban:before{content:"\f05e"}.fa-arrow-left:before{content:"\f060"}.fa-arrow-right:before{content:"\f061"}.fa-arrow-up:before{content:"\f062"}.fa-arrow-down:before{content:"\f063"}.fa-mail-forward:before,.fa-share:before{content:"\f064"}.fa-expand:before{content:"\f065"}.fa-compress:before{content:"\f066"}.fa-plus:before{content:"\f067"}.fa-minus:before{content:"\f068"}.fa-asterisk:before{content:"\f069"}.fa-exclamation-circle:before{content:"\f06a"}.fa-gift:before{content:"\f06b"}.fa-leaf:before{content:"\f06c"}.fa-fire:before{content:"\f06d"}.fa-eye:before{content:"\f06e"}.fa-eye-slash:before{content:"\f070"}.fa-warning:before,.fa-exclamation-triangle:before{content:"\f071"}.fa-plane:before{content:"\f072"}.fa-calendar:before{content:"\f073"}.fa-random:before{content:"\f074"}.fa-comment:before{content:"\f075"}.fa-magnet:before{content:"\f076"}.fa-chevron-up:before{content:"\f077"}.fa-chevron-down:before{content:"\f078"}.fa-retweet:before{content:"\f079"}.fa-shopping-cart:before{content:"\f07a"}.fa-folder:before{content:"\f07b"}.fa-folder-open:before{content:"\f07c"}.fa-arrows-v:before{content:"\f07d"}.fa-arrows-h:before{content:"\f07e"}.fa-bar-chart-o:before,.fa-bar-chart:before{content:"\f080"}.fa-twitter-square:before{content:"\f081"}.fa-facebook-square:before{content:"\f082"}.fa-camera-retro:before{content:"\f083"}.fa-key:before{content:"\f084"}.fa-gears:before,.fa-cogs:before{content:"\f085"}.fa-comments:before{content:"\f086"}.fa-thumbs-o-up:before{content:"\f087"}.fa-thumbs-o-down:before{content:"\f088"}.fa-star-half:before{content:"\f089"}.fa-heart-o:before{content:"\f08a"}.fa-sign-out:before{content:"\f08b"}.fa-linkedin-square:before{content:"\f08c"}.fa-thumb-tack:before{content:"\f08d"}.fa-external-link:before{content:"\f08e"}.fa-sign-in:before{content:"\f090"}.fa-trophy:before{content:"\f091"}.fa-github-square:before{content:"\f092"}.fa-upload:before{content:"\f093"}.fa-lemon-o:before{content:"\f094"}.fa-phone:before{content:"\f095"}.fa-square-o:before{content:"\f096"}.fa-bookmark-o:before{content:"\f097"}.fa-phone-square:before{content:"\f098"}.fa-twitter:before{content:"\f099"}.fa-facebook-f:before,.fa-facebook:before{content:"\f09a"}.fa-github:before{content:"\f09b"}.fa-unlock:before{content:"\f09c"}.fa-credit-card:before{content:"\f09d"}.fa-feed:before,.fa-rss:before{content:"\f09e"}.fa-hdd-o:before{content:"\f0a0"}.fa-bullhorn:before{content:"\f0a1"}.fa-bell:before{content:"\f0f3"}.fa-certificate:before{content:"\f0a3"}.fa-hand-o-right:before{content:"\f0a4"}.fa-hand-o-left:before{content:"\f0a5"}.fa-hand-o-up:before{content:"\f0a6"}.fa-hand-o-down:before{content:"\f0a7"}.fa-arrow-circle-left:before{content:"\f0a8"}.fa-arrow-circle-right:before{content:"\f0a9"}.fa-arrow-circle-up:before{content:"\f0aa"}.fa-arrow-circle-down:before{content:"\f0ab"}.fa-globe:before{content:"\f0ac"}.fa-wrench:before{content:"\f0ad"}.fa-tasks:before{content:"\f0ae"}.fa-filter:before{content:"\f0b0"}.fa-briefcase:before{content:"\f0b1"}.fa-arrows-alt:before{content:"\f0b2"}.fa-group:before,.fa-users:before{content:"\f0c0"}.fa-chain:before,.fa-link:before{content:"\f0c1"}.fa-cloud:before{content:"\f0c2"}.fa-flask:before{content:"\f0c3"}.fa-cut:before,.fa-scissors:before{content:"\f0c4"}.fa-copy:before,.fa-files-o:before{content:"\f0c5"}.fa-paperclip:before{content:"\f0c6"}.fa-save:before,.fa-floppy-o:before{content:"\f0c7"}.fa-square:before{content:"\f0c8"}.fa-navicon:before,.fa-reorder:before,.fa-bars:before{content:"\f0c9"}.fa-list-ul:before{content:"\f0ca"}.fa-list-ol:before{content:"\f0cb"}.fa-strikethrough:before{content:"\f0cc"}.fa-underline:before{content:"\f0cd"}.fa-table:before{content:"\f0ce"}.fa-magic:before{content:"\f0d0"}.fa-truck:before{content:"\f0d1"}.fa-pinterest:before{content:"\f0d2"}.fa-pinterest-square:before{content:"\f0d3"}.fa-google-plus-square:before{content:"\f0d4"}.fa-google-plus:before{content:"\f0d5"}.fa-money:before{content:"\f0d6"}.fa-caret-down:before{content:"\f0d7"}.fa-caret-up:before{content:"\f0d8"}.fa-caret-left:before{content:"\f0d9"}.fa-caret-right:before{content:"\f0da"}.fa-columns:before{content:"\f0db"}.fa-unsorted:before,.fa-sort:before{content:"\f0dc"}.fa-sort-down:before,.fa-sort-desc:before{content:"\f0dd"}.fa-sort-up:before,.fa-sort-asc:before{content:"\f0de"}.fa-envelope:before{content:"\f0e0"}.fa-linkedin:before{content:"\f0e1"}.fa-rotate-left:before,.fa-undo:before{content:"\f0e2"}.fa-legal:before,.fa-gavel:before{content:"\f0e3"}.fa-dashboard:before,.fa-tachometer:before{content:"\f0e4"}.fa-comment-o:before{content:"\f0e5"}.fa-comments-o:before{content:"\f0e6"}.fa-flash:before,.fa-bolt:before{content:"\f0e7"}.fa-sitemap:before{content:"\f0e8"}.fa-umbrella:before{content:"\f0e9"}.fa-paste:before,.fa-clipboard:before{content:"\f0ea"}.fa-lightbulb-o:before{content:"\f0eb"}.fa-exchange:before{content:"\f0ec"}.fa-cloud-download:before{content:"\f0ed"}.fa-cloud-upload:before{content:"\f0ee"}.fa-user-md:before{content:"\f0f0"}.fa-stethoscope:before{content:"\f0f1"}.fa-suitcase:before{content:"\f0f2"}.fa-bell-o:before{content:"\f0a2"}.fa-coffee:before{content:"\f0f4"}.fa-cutlery:before{content:"\f0f5"}.fa-file-text-o:before{content:"\f0f6"}.fa-building-o:before{content:"\f0f7"}.fa-hospital-o:before{content:"\f0f8"}.fa-ambulance:before{content:"\f0f9"}.fa-medkit:before{content:"\f0fa"}.fa-fighter-jet:before{content:"\f0fb"}.fa-beer:before{content:"\f0fc"}.fa-h-square:before{content:"\f0fd"}.fa-plus-square:before{content:"\f0fe"}.fa-angle-double-left:before{content:"\f100"}.fa-angle-double-right:before{content:"\f101"}.fa-angle-double-up:before{content:"\f102"}.fa-angle-double-down:before{content:"\f103"}.fa-angle-left:before{content:"\f104"}.fa-angle-right:before{content:"\f105"}.fa-angle-up:before{content:"\f106"}.fa-angle-down:before{content:"\f107"}.fa-desktop:before{content:"\f108"}.fa-laptop:before{content:"\f109"}.fa-tablet:before{content:"\f10a"}.fa-mobile-phone:before,.fa-mobile:before{content:"\f10b"}.fa-circle-o:before{content:"\f10c"}.fa-quote-left:before{content:"\f10d"}.fa-quote-right:before{content:"\f10e"}.fa-spinner:before{content:"\f110"}.fa-circle:before{content:"\f111"}.fa-mail-reply:before,.fa-reply:before{content:"\f112"}.fa-github-alt:before{content:"\f113"}.fa-folder-o:before{content:"\f114"}.fa-folder-open-o:before{content:"\f115"}.fa-smile-o:before{content:"\f118"}.fa-frown-o:before{content:"\f119"}.fa-meh-o:before{content:"\f11a"}.fa-gamepad:before{content:"\f11b"}.fa-keyboard-o:before{content:"\f11c"}.fa-flag-o:before{content:"\f11d"}.fa-flag-checkered:before{content:"\f11e"}.fa-terminal:before{content:"\f120"}.fa-code:before{content:"\f121"}.fa-mail-reply-all:before,.fa-reply-all:before{content:"\f122"}.fa-star-half-empty:before,.fa-star-half-full:before,.fa-star-half-o:before{content:"\f123"}.fa-location-arrow:before{content:"\f124"}.fa-crop:before{content:"\f125"}.fa-code-fork:before{content:"\f126"}.fa-unlink:before,.fa-chain-broken:before{content:"\f127"}.fa-question:before{content:"\f128"}.fa-info:before{content:"\f129"}.fa-exclamation:before{content:"\f12a"}.fa-superscript:before{content:"\f12b"}.fa-subscript:before{content:"\f12c"}.fa-eraser:before{content:"\f12d"}.fa-puzzle-piece:before{content:"\f12e"}.fa-microphone:before{content:"\f130"}.fa-microphone-slash:before{content:"\f131"}.fa-shield:before{content:"\f132"}.fa-calendar-o:before{content:"\f133"}.fa-fire-extinguisher:before{content:"\f134"}.fa-rocket:before{content:"\f135"}.fa-maxcdn:before{content:"\f136"}.fa-chevron-circle-left:before{content:"\f137"}.fa-chevron-circle-right:before{content:"\f138"}.fa-chevron-circle-up:before{content:"\f139"}.fa-chevron-circle-down:before{content:"\f13a"}.fa-html5:before{content:"\f13b"}.fa-css3:before{content:"\f13c"}.fa-anchor:before{content:"\f13d"}.fa-unlock-alt:before{content:"\f13e"}.fa-bullseye:before{content:"\f140"}.fa-ellipsis-h:before{content:"\f141"}.fa-ellipsis-v:before{content:"\f142"}.fa-rss-square:before{content:"\f143"}.fa-play-circle:before{content:"\f144"}.fa-ticket:before{content:"\f145"}.fa-minus-square:before{content:"\f146"}.fa-minus-square-o:before{content:"\f147"}.fa-level-up:before{content:"\f148"}.fa-level-down:before{content:"\f149"}.fa-check-square:before{content:"\f14a"}.fa-pencil-square:before{content:"\f14b"}.fa-external-link-square:before{content:"\f14c"}.fa-share-square:before{content:"\f14d"}.fa-compass:before{content:"\f14e"}.fa-toggle-down:before,.fa-caret-square-o-down:before{content:"\f150"}.fa-toggle-up:before,.fa-caret-square-o-up:before{content:"\f151"}.fa-toggle-right:before,.fa-caret-square-o-right:before{content:"\f152"}.fa-euro:before,.fa-eur:before{content:"\f153"}.fa-gbp:before{content:"\f154"}.fa-dollar:before,.fa-usd:before{content:"\f155"}.fa-rupee:before,.fa-inr:before{content:"\f156"}.fa-cny:before,.fa-rmb:before,.fa-yen:before,.fa-jpy:before{content:"\f157"}.fa-ruble:before,.fa-rouble:before,.fa-rub:before{content:"\f158"}.fa-won:before,.fa-krw:before{content:"\f159"}.fa-bitcoin:before,.fa-btc:before{content:"\f15a"}.fa-file:before{content:"\f15b"}.fa-file-text:before{content:"\f15c"}.fa-sort-alpha-asc:before{content:"\f15d"}.fa-sort-alpha-desc:before{content:"\f15e"}.fa-sort-amount-asc:before{content:"\f160"}.fa-sort-amount-desc:before{content:"\f161"}.fa-sort-numeric-asc:before{content:"\f162"}.fa-sort-numeric-desc:before{content:"\f163"}.fa-thumbs-up:before{content:"\f164"}.fa-thumbs-down:before{content:"\f165"}.fa-youtube-square:before{content:"\f166"}.fa-youtube:before{content:"\f167"}.fa-xing:before{content:"\f168"}.fa-xing-square:before{content:"\f169"}.fa-youtube-play:before{content:"\f16a"}.fa-dropbox:before{content:"\f16b"}.fa-stack-overflow:before{content:"\f16c"}.fa-instagram:before{content:"\f16d"}.fa-flickr:before{content:"\f16e"}.fa-adn:before{content:"\f170"}.fa-bitbucket:before{content:"\f171"}.fa-bitbucket-square:before{content:"\f172"}.fa-tumblr:before{content:"\f173"}.fa-tumblr-square:before{content:"\f174"}.fa-long-arrow-down:before{content:"\f175"}.fa-long-arrow-up:before{content:"\f176"}.fa-long-arrow-left:before{content:"\f177"}.fa-long-arrow-right:before{content:"\f178"}.fa-apple:before{content:"\f179"}.fa-windows:before{content:"\f17a"}.fa-android:before{content:"\f17b"}.fa-linux:before{content:"\f17c"}.fa-dribbble:before{content:"\f17d"}.fa-skype:before{content:"\f17e"}.fa-foursquare:before{content:"\f180"}.fa-trello:before{content:"\f181"}.fa-female:before{content:"\f182"}.fa-male:before{content:"\f183"}.fa-gittip:before,.fa-gratipay:before{content:"\f184"}.fa-sun-o:before{content:"\f185"}.fa-moon-o:before{content:"\f186"}.fa-archive:before{content:"\f187"}.fa-bug:before{content:"\f188"}.fa-vk:before{content:"\f189"}.fa-weibo:before{content:"\f18a"}.fa-renren:before{content:"\f18b"}.fa-pagelines:before{content:"\f18c"}.fa-stack-exchange:before{content:"\f18d"}.fa-arrow-circle-o-right:before{content:"\f18e"}.fa-arrow-circle-o-left:before{content:"\f190"}.fa-toggle-left:before,.fa-caret-square-o-left:before{content:"\f191"}.fa-dot-circle-o:before{content:"\f192"}.fa-wheelchair:before{content:"\f193"}.fa-vimeo-square:before{content:"\f194"}.fa-turkish-lira:before,.fa-try:before{content:"\f195"}.fa-plus-square-o:before{content:"\f196"}.fa-space-shuttle:before{content:"\f197"}.fa-slack:before{content:"\f198"}.fa-envelope-square:before{content:"\f199"}.fa-wordpress:before{content:"\f19a"}.fa-openid:before{content:"\f19b"}.fa-institution:before,.fa-bank:before,.fa-university:before{content:"\f19c"}.fa-mortar-board:before,.fa-graduation-cap:before{content:"\f19d"}.fa-yahoo:before{content:"\f19e"}.fa-google:before{content:"\f1a0"}.fa-reddit:before{content:"\f1a1"}.fa-reddit-square:before{content:"\f1a2"}.fa-stumbleupon-circle:before{content:"\f1a3"}.fa-stumbleupon:before{content:"\f1a4"}.fa-delicious:before{content:"\f1a5"}.fa-digg:before{content:"\f1a6"}.fa-pied-piper-pp:before{content:"\f1a7"}.fa-pied-piper-alt:before{content:"\f1a8"}.fa-drupal:before{content:"\f1a9"}.fa-joomla:before{content:"\f1aa"}.fa-language:before{content:"\f1ab"}.fa-fax:before{content:"\f1ac"}.fa-building:before{content:"\f1ad"}.fa-child:before{content:"\f1ae"}.fa-paw:before{content:"\f1b0"}.fa-spoon:before{content:"\f1b1"}.fa-cube:before{content:"\f1b2"}.fa-cubes:before{content:"\f1b3"}.fa-behance:before{content:"\f1b4"}.fa-behance-square:before{content:"\f1b5"}.fa-steam:before{content:"\f1b6"}.fa-steam-square:before{content:"\f1b7"}.fa-recycle:before{content:"\f1b8"}.fa-automobile:before,.fa-car:before{content:"\f1b9"}.fa-cab:before,.fa-taxi:before{content:"\f1ba"}.fa-tree:before{content:"\f1bb"}.fa-spotify:before{content:"\f1bc"}.fa-deviantart:before{content:"\f1bd"}.fa-soundcloud:before{content:"\f1be"}.fa-database:before{content:"\f1c0"}.fa-file-pdf-o:before{content:"\f1c1"}.fa-file-word-o:before{content:"\f1c2"}.fa-file-excel-o:before{content:"\f1c3"}.fa-file-powerpoint-o:before{content:"\f1c4"}.fa-file-photo-o:before,.fa-file-picture-o:before,.fa-file-image-o:before{content:"\f1c5"}.fa-file-zip-o:before,.fa-file-archive-o:before{content:"\f1c6"}.fa-file-sound-o:before,.fa-file-audio-o:before{content:"\f1c7"}.fa-file-movie-o:before,.fa-file-video-o:before{content:"\f1c8"}.fa-file-code-o:before{content:"\f1c9"}.fa-vine:before{content:"\f1ca"}.fa-codepen:before{content:"\f1cb"}.fa-jsfiddle:before{content:"\f1cc"}.fa-life-bouy:before,.fa-life-buoy:before,.fa-life-saver:before,.fa-support:before,.fa-life-ring:before{content:"\f1cd"}.fa-circle-o-notch:before{content:"\f1ce"}.fa-ra:before,.fa-resistance:before,.fa-rebel:before{content:"\f1d0"}.fa-ge:before,.fa-empire:before{content:"\f1d1"}.fa-git-square:before{content:"\f1d2"}.fa-git:before{content:"\f1d3"}.fa-y-combinator-square:before,.fa-yc-square:before,.fa-hacker-news:before{content:"\f1d4"}.fa-tencent-weibo:before{content:"\f1d5"}.fa-qq:before{content:"\f1d6"}.fa-wechat:before,.fa-weixin:before{content:"\f1d7"}.fa-send:before,.fa-paper-plane:before{content:"\f1d8"}.fa-send-o:before,.fa-paper-plane-o:before{content:"\f1d9"}.fa-history:before{content:"\f1da"}.fa-circle-thin:before{content:"\f1db"}.fa-header:before{content:"\f1dc"}.fa-paragraph:before{content:"\f1dd"}.fa-sliders:before{content:"\f1de"}.fa-share-alt:before{content:"\f1e0"}.fa-share-alt-square:before{content:"\f1e1"}.fa-bomb:before{content:"\f1e2"}.fa-soccer-ball-o:before,.fa-futbol-o:before{content:"\f1e3"}.fa-tty:before{content:"\f1e4"}.fa-binoculars:before{content:"\f1e5"}.fa-plug:before{content:"\f1e6"}.fa-slideshare:before{content:"\f1e7"}.fa-twitch:before{content:"\f1e8"}.fa-yelp:before{content:"\f1e9"}.fa-newspaper-o:before{content:"\f1ea"}.fa-wifi:before{content:"\f1eb"}.fa-calculator:before{content:"\f1ec"}.fa-paypal:before{content:"\f1ed"}.fa-google-wallet:before{content:"\f1ee"}.fa-cc-visa:before{content:"\f1f0"}.fa-cc-mastercard:before{content:"\f1f1"}.fa-cc-discover:before{content:"\f1f2"}.fa-cc-amex:before{content:"\f1f3"}.fa-cc-paypal:before{content:"\f1f4"}.fa-cc-stripe:before{content:"\f1f5"}.fa-bell-slash:before{content:"\f1f6"}.fa-bell-slash-o:before{content:"\f1f7"}.fa-trash:before{content:"\f1f8"}.fa-copyright:before{content:"\f1f9"}.fa-at:before{content:"\f1fa"}.fa-eyedropper:before{content:"\f1fb"}.fa-paint-brush:before{content:"\f1fc"}.fa-birthday-cake:before{content:"\f1fd"}.fa-area-chart:before{content:"\f1fe"}.fa-pie-chart:before{content:"\f200"}.fa-line-chart:before{content:"\f201"}.fa-lastfm:before{content:"\f202"}.fa-lastfm-square:before{content:"\f203"}.fa-toggle-off:before{content:"\f204"}.fa-toggle-on:before{content:"\f205"}.fa-bicycle:before{content:"\f206"}.fa-bus:before{content:"\f207"}.fa-ioxhost:before{content:"\f208"}.fa-angellist:before{content:"\f209"}.fa-cc:before{content:"\f20a"}.fa-shekel:before,.fa-sheqel:before,.fa-ils:before{content:"\f20b"}.fa-meanpath:before{content:"\f20c"}.fa-buysellads:before{content:"\f20d"}.fa-connectdevelop:before{content:"\f20e"}.fa-dashcube:before{content:"\f210"}.fa-forumbee:before{content:"\f211"}.fa-leanpub:before{content:"\f212"}.fa-sellsy:before{content:"\f213"}.fa-shirtsinbulk:before{content:"\f214"}.fa-simplybuilt:before{content:"\f215"}.fa-skyatlas:before{content:"\f216"}.fa-cart-plus:before{content:"\f217"}.fa-cart-arrow-down:before{content:"\f218"}.fa-diamond:before{content:"\f219"}.fa-ship:before{content:"\f21a"}.fa-user-secret:before{content:"\f21b"}.fa-motorcycle:before{content:"\f21c"}.fa-street-view:before{content:"\f21d"}.fa-heartbeat:before{content:"\f21e"}.fa-venus:before{content:"\f221"}.fa-mars:before{content:"\f222"}.fa-mercury:before{content:"\f223"}.fa-intersex:before,.fa-transgender:before{content:"\f224"}.fa-transgender-alt:before{content:"\f225"}.fa-venus-double:before{content:"\f226"}.fa-mars-double:before{content:"\f227"}.fa-venus-mars:before{content:"\f228"}.fa-mars-stroke:before{content:"\f229"}.fa-mars-stroke-v:before{content:"\f22a"}.fa-mars-stroke-h:before{content:"\f22b"}.fa-neuter:before{content:"\f22c"}.fa-genderless:before{content:"\f22d"}.fa-facebook-official:before{content:"\f230"}.fa-pinterest-p:before{content:"\f231"}.fa-whatsapp:before{content:"\f232"}.fa-server:before{content:"\f233"}.fa-user-plus:before{content:"\f234"}.fa-user-times:before{content:"\f235"}.fa-hotel:before,.fa-bed:before{content:"\f236"}.fa-viacoin:before{content:"\f237"}.fa-train:before{content:"\f238"}.fa-subway:before{content:"\f239"}.fa-medium:before{content:"\f23a"}.fa-yc:before,.fa-y-combinator:before{content:"\f23b"}.fa-optin-monster:before{content:"\f23c"}.fa-opencart:before{content:"\f23d"}.fa-expeditedssl:before{content:"\f23e"}.fa-battery-4:before,.fa-battery:before,.fa-battery-full:before{content:"\f240"}.fa-battery-3:before,.fa-battery-three-quarters:before{content:"\f241"}.fa-battery-2:before,.fa-battery-half:before{content:"\f242"}.fa-battery-1:before,.fa-battery-quarter:before{content:"\f243"}.fa-battery-0:before,.fa-battery-empty:before{content:"\f244"}.fa-mouse-pointer:before{content:"\f245"}.fa-i-cursor:before{content:"\f246"}.fa-object-group:before{content:"\f247"}.fa-object-ungroup:before{content:"\f248"}.fa-sticky-note:before{content:"\f249"}.fa-sticky-note-o:before{content:"\f24a"}.fa-cc-jcb:before{content:"\f24b"}.fa-cc-diners-club:before{content:"\f24c"}.fa-clone:before{content:"\f24d"}.fa-balance-scale:before{content:"\f24e"}.fa-hourglass-o:before{content:"\f250"}.fa-hourglass-1:before,.fa-hourglass-start:before{content:"\f251"}.fa-hourglass-2:before,.fa-hourglass-half:before{content:"\f252"}.fa-hourglass-3:before,.fa-hourglass-end:before{content:"\f253"}.fa-hourglass:before{content:"\f254"}.fa-hand-grab-o:before,.fa-hand-rock-o:before{content:"\f255"}.fa-hand-stop-o:before,.fa-hand-paper-o:before{content:"\f256"}.fa-hand-scissors-o:before{content:"\f257"}.fa-hand-lizard-o:before{content:"\f258"}.fa-hand-spock-o:before{content:"\f259"}.fa-hand-pointer-o:before{content:"\f25a"}.fa-hand-peace-o:before{content:"\f25b"}.fa-trademark:before{content:"\f25c"}.fa-registered:before{content:"\f25d"}.fa-creative-commons:before{content:"\f25e"}.fa-gg:before{content:"\f260"}.fa-gg-circle:before{content:"\f261"}.fa-tripadvisor:before{content:"\f262"}.fa-odnoklassniki:before{content:"\f263"}.fa-odnoklassniki-square:before{content:"\f264"}.fa-get-pocket:before{content:"\f265"}.fa-wikipedia-w:before{content:"\f266"}.fa-safari:before{content:"\f267"}.fa-chrome:before{content:"\f268"}.fa-firefox:before{content:"\f269"}.fa-opera:before{content:"\f26a"}.fa-internet-explorer:before{content:"\f26b"}.fa-tv:before,.fa-television:before{content:"\f26c"}.fa-contao:before{content:"\f26d"}.fa-500px:before{content:"\f26e"}.fa-amazon:before{content:"\f270"}.fa-calendar-plus-o:before{content:"\f271"}.fa-calendar-minus-o:before{content:"\f272"}.fa-calendar-times-o:before{content:"\f273"}.fa-calendar-check-o:before{content:"\f274"}.fa-industry:before{content:"\f275"}.fa-map-pin:before{content:"\f276"}.fa-map-signs:before{content:"\f277"}.fa-map-o:before{content:"\f278"}.fa-map:before{content:"\f279"}.fa-commenting:before{content:"\f27a"}.fa-commenting-o:before{content:"\f27b"}.fa-houzz:before{content:"\f27c"}.fa-vimeo:before{content:"\f27d"}.fa-black-tie:before{content:"\f27e"}.fa-fonticons:before{content:"\f280"}.fa-reddit-alien:before{content:"\f281"}.fa-edge:before{content:"\f282"}.fa-credit-card-alt:before{content:"\f283"}.fa-codiepie:before{content:"\f284"}.fa-modx:before{content:"\f285"}.fa-fort-awesome:before{content:"\f286"}.fa-usb:before{content:"\f287"}.fa-product-hunt:before{content:"\f288"}.fa-mixcloud:before{content:"\f289"}.fa-scribd:before{content:"\f28a"}.fa-pause-circle:before{content:"\f28b"}.fa-pause-circle-o:before{content:"\f28c"}.fa-stop-circle:before{content:"\f28d"}.fa-stop-circle-o:before{content:"\f28e"}.fa-shopping-bag:before{content:"\f290"}.fa-shopping-basket:before{content:"\f291"}.fa-hashtag:before{content:"\f292"}.fa-bluetooth:before{content:"\f293"}.fa-bluetooth-b:before{content:"\f294"}.fa-percent:before{content:"\f295"}.fa-gitlab:before{content:"\f296"}.fa-wpbeginner:before{content:"\f297"}.fa-wpforms:before{content:"\f298"}.fa-envira:before{content:"\f299"}.fa-universal-access:before{content:"\f29a"}.fa-wheelchair-alt:before{content:"\f29b"}.fa-question-circle-o:before{content:"\f29c"}.fa-blind:before{content:"\f29d"}.fa-audio-description:before{content:"\f29e"}.fa-volume-control-phone:before{content:"\f2a0"}.fa-braille:before{content:"\f2a1"}.fa-assistive-listening-systems:before{content:"\f2a2"}.fa-asl-interpreting:before,.fa-american-sign-language-interpreting:before{content:"\f2a3"}.fa-deafness:before,.fa-hard-of-hearing:before,.fa-deaf:before{content:"\f2a4"}.fa-glide:before{content:"\f2a5"}.fa-glide-g:before{content:"\f2a6"}.fa-signing:before,.fa-sign-language:before{content:"\f2a7"}.fa-low-vision:before{content:"\f2a8"}.fa-viadeo:before{content:"\f2a9"}.fa-viadeo-square:before{content:"\f2aa"}.fa-snapchat:before{content:"\f2ab"}.fa-snapchat-ghost:before{content:"\f2ac"}.fa-snapchat-square:before{content:"\f2ad"}.fa-pied-piper:before{content:"\f2ae"}.fa-first-order:before{content:"\f2b0"}.fa-yoast:before{content:"\f2b1"}.fa-themeisle:before{content:"\f2b2"}.fa-google-plus-circle:before,.fa-google-plus-official:before{content:"\f2b3"}.fa-fa:before,.fa-font-awesome:before{content:"\f2b4"}.fa-handshake-o:before{content:"\f2b5"}.fa-envelope-open:before{content:"\f2b6"}.fa-envelope-open-o:before{content:"\f2b7"}.fa-linode:before{content:"\f2b8"}.fa-address-book:before{content:"\f2b9"}.fa-address-book-o:before{content:"\f2ba"}.fa-vcard:before,.fa-address-card:before{content:"\f2bb"}.fa-vcard-o:before,.fa-address-card-o:before{content:"\f2bc"}.fa-user-circle:before{content:"\f2bd"}.fa-user-circle-o:before{content:"\f2be"}.fa-user-o:before{content:"\f2c0"}.fa-id-badge:before{content:"\f2c1"}.fa-drivers-license:before,.fa-id-card:before{content:"\f2c2"}.fa-drivers-license-o:before,.fa-id-card-o:before{content:"\f2c3"}.fa-quora:before{content:"\f2c4"}.fa-free-code-camp:before{content:"\f2c5"}.fa-telegram:before{content:"\f2c6"}.fa-thermometer-4:before,.fa-thermometer:before,.fa-thermometer-full:before{content:"\f2c7"}.fa-thermometer-3:before,.fa-thermometer-three-quarters:before{content:"\f2c8"}.fa-thermometer-2:before,.fa-thermometer-half:before{content:"\f2c9"}.fa-thermometer-1:before,.fa-thermometer-quarter:before{content:"\f2ca"}.fa-thermometer-0:before,.fa-thermometer-empty:before{content:"\f2cb"}.fa-shower:before{content:"\f2cc"}.fa-bathtub:before,.fa-s15:before,.fa-bath:before{content:"\f2cd"}.fa-podcast:before{content:"\f2ce"}.fa-window-maximize:before{content:"\f2d0"}.fa-window-minimize:before{content:"\f2d1"}.fa-window-restore:before{content:"\f2d2"}.fa-times-rectangle:before,.fa-window-close:before{content:"\f2d3"}.fa-times-rectangle-o:before,.fa-window-close-o:before{content:"\f2d4"}.fa-bandcamp:before{content:"\f2d5"}.fa-grav:before{content:"\f2d6"}.fa-etsy:before{content:"\f2d7"}.fa-imdb:before{content:"\f2d8"}.fa-ravelry:before{content:"\f2d9"}.fa-eercast:before{content:"\f2da"}.fa-microchip:before{content:"\f2db"}.fa-snowflake-o:before{content:"\f2dc"}.fa-superpowers:before{content:"\f2dd"}.fa-wpexplorer:before{content:"\f2de"}.fa-meetup:before{content:"\f2e0"}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);border:0}.sr-only-focusable:active,.sr-only-focusable:focus{position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto}
+</style><style type="text/css" style="cursor: auto;">/*! jQuery UI - v1.10.4 - 2014-01-17
+* http://jqueryui.com
+* Includes: jquery.ui.core.css, jquery.ui.accordion.css, jquery.ui.autocomplete.css, jquery.ui.button.css, jquery.ui.datepicker.css, jquery.ui.dialog.css, jquery.ui.menu.css, jquery.ui.progressbar.css, jquery.ui.resizable.css, jquery.ui.selectable.css, jquery.ui.slider.css, jquery.ui.spinner.css, jquery.ui.tabs.css, jquery.ui.tooltip.css, jquery.ui.theme.css
+* To view and modify this theme, visit http://jqueryui.com/themeroller/?ffDefault=Verdana%2CArial%2Csans-serif&fwDefault=normal&fsDefault=1.1em&cornerRadius=4px&bgColorHeader=cccccc&bgTextureHeader=highlight_soft&bgImgOpacityHeader=75&borderColorHeader=aaaaaa&fcHeader=222222&iconColorHeader=222222&bgColorContent=ffffff&bgTextureContent=flat&bgImgOpacityContent=75&borderColorContent=aaaaaa&fcContent=222222&iconColorContent=222222&bgColorDefault=e6e6e6&bgTextureDefault=glass&bgImgOpacityDefault=75&borderColorDefault=d3d3d3&fcDefault=555555&iconColorDefault=888888&bgColorHover=dadada&bgTextureHover=glass&bgImgOpacityHover=75&borderColorHover=999999&fcHover=212121&iconColorHover=454545&bgColorActive=ffffff&bgTextureActive=glass&bgImgOpacityActive=65&borderColorActive=aaaaaa&fcActive=212121&iconColorActive=454545&bgColorHighlight=fbf9ee&bgTextureHighlight=glass&bgImgOpacityHighlight=55&borderColorHighlight=fcefa1&fcHighlight=363636&iconColorHighlight=2e83ff&bgColorError=fef1ec&bgTextureError=glass&bgImgOpacityError=95&borderColorError=cd0a0a&fcError=cd0a0a&iconColorError=cd0a0a&bgColorOverlay=aaaaaa&bgTextureOverlay=flat&bgImgOpacityOverlay=0&opacityOverlay=30&bgColorShadow=aaaaaa&bgTextureShadow=flat&bgImgOpacityShadow=0&opacityShadow=30&thicknessShadow=8px&offsetTopShadow=-8px&offsetLeftShadow=-8px&cornerRadiusShadow=8px
+* Copyright 2014 jQuery Foundation and other contributors; Licensed MIT */
+
+.ui-helper-hidden{display:none}.ui-helper-hidden-accessible{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.ui-helper-reset{margin:0;padding:0;border:0;outline:0;line-height:1.3;text-decoration:none;font-size:100%;list-style:none}.ui-helper-clearfix:before,.ui-helper-clearfix:after{content:"";display:table;border-collapse:collapse}.ui-helper-clearfix:after{clear:both}.ui-helper-clearfix{min-height:0}.ui-helper-zfix{width:100%;height:100%;top:0;left:0;position:absolute;opacity:0;filter:Alpha(Opacity=0)}.ui-front{z-index:100}.ui-state-disabled{cursor:default!important}.ui-icon{display:block;text-indent:-99999px;overflow:hidden;background-repeat:no-repeat}.ui-widget-overlay{position:fixed;top:0;left:0;width:100%;height:100%}.ui-accordion .ui-accordion-header{display:block;cursor:pointer;position:relative;margin-top:2px;padding:.5em .5em .5em .7em;min-height:0}.ui-accordion .ui-accordion-icons{padding-left:2.2em}.ui-accordion .ui-accordion-noicons{padding-left:.7em}.ui-accordion .ui-accordion-icons .ui-accordion-icons{padding-left:2.2em}.ui-accordion .ui-accordion-header .ui-accordion-header-icon{position:absolute;left:.5em;top:50%;margin-top:-8px}.ui-accordion .ui-accordion-content{padding:1em 2.2em;border-top:0;overflow:auto}.ui-autocomplete{position:absolute;top:0;left:0;cursor:default}.ui-button{display:inline-block;position:relative;padding:0;line-height:normal;margin-right:.1em;cursor:pointer;vertical-align:middle;text-align:center;overflow:visible}.ui-button,.ui-button:link,.ui-button:visited,.ui-button:hover,.ui-button:active{text-decoration:none}.ui-button-icon-only{width:2.2em}button.ui-button-icon-only{width:2.4em}.ui-button-icons-only{width:3.4em}button.ui-button-icons-only{width:3.7em}.ui-button .ui-button-text{display:block;line-height:normal}.ui-button-text-only .ui-button-text{padding:.4em 1em}.ui-button-icon-only .ui-button-text,.ui-button-icons-only .ui-button-text{padding:.4em;text-indent:-9999999px}.ui-button-text-icon-primary .ui-button-text,.ui-button-text-icons .ui-button-text{padding:.4em 1em .4em 2.1em}.ui-button-text-icon-secondary .ui-button-text,.ui-button-text-icons .ui-button-text{padding:.4em 2.1em .4em 1em}.ui-button-text-icons .ui-button-text{padding-left:2.1em;padding-right:2.1em}input.ui-button{padding:.4em 1em}.ui-button-icon-only .ui-icon,.ui-button-text-icon-primary .ui-icon,.ui-button-text-icon-secondary .ui-icon,.ui-button-text-icons .ui-icon,.ui-button-icons-only .ui-icon{position:absolute;top:50%;margin-top:-8px}.ui-button-icon-only .ui-icon{left:50%;margin-left:-8px}.ui-button-text-icon-primary .ui-button-icon-primary,.ui-button-text-icons .ui-button-icon-primary,.ui-button-icons-only .ui-button-icon-primary{left:.5em}.ui-button-text-icon-secondary .ui-button-icon-secondary,.ui-button-text-icons .ui-button-icon-secondary,.ui-button-icons-only .ui-button-icon-secondary{right:.5em}.ui-buttonset{margin-right:7px}.ui-buttonset .ui-button{margin-left:0;margin-right:-.3em}input.ui-button::-moz-focus-inner,button.ui-button::-moz-focus-inner{border:0;padding:0}.ui-datepicker{width:17em;padding:.2em .2em 0;display:none}.ui-datepicker .ui-datepicker-header{position:relative;padding:.2em 0}.ui-datepicker .ui-datepicker-prev,.ui-datepicker .ui-datepicker-next{position:absolute;top:2px;width:1.8em;height:1.8em}.ui-datepicker .ui-datepicker-prev-hover,.ui-datepicker .ui-datepicker-next-hover{top:1px}.ui-datepicker .ui-datepicker-prev{left:2px}.ui-datepicker .ui-datepicker-next{right:2px}.ui-datepicker .ui-datepicker-prev-hover{left:1px}.ui-datepicker .ui-datepicker-next-hover{right:1px}.ui-datepicker .ui-datepicker-prev span,.ui-datepicker .ui-datepicker-next span{display:block;position:absolute;left:50%;margin-left:-8px;top:50%;margin-top:-8px}.ui-datepicker .ui-datepicker-title{margin:0 2.3em;line-height:1.8em;text-align:center}.ui-datepicker .ui-datepicker-title select{font-size:1em;margin:1px 0}.ui-datepicker select.ui-datepicker-month,.ui-datepicker select.ui-datepicker-year{width:49%}.ui-datepicker table{width:100%;font-size:.9em;border-collapse:collapse;margin:0 0 .4em}.ui-datepicker th{padding:.7em .3em;text-align:center;font-weight:bold;border:0}.ui-datepicker td{border:0;padding:1px}.ui-datepicker td span,.ui-datepicker td a{display:block;padding:.2em;text-align:right;text-decoration:none}.ui-datepicker .ui-datepicker-buttonpane{background-image:none;margin:.7em 0 0 0;padding:0 .2em;border-left:0;border-right:0;border-bottom:0}.ui-datepicker .ui-datepicker-buttonpane button{float:right;margin:.5em .2em .4em;cursor:pointer;padding:.2em .6em .3em .6em;width:auto;overflow:visible}.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current{float:left}.ui-datepicker.ui-datepicker-multi{width:auto}.ui-datepicker-multi .ui-datepicker-group{float:left}.ui-datepicker-multi .ui-datepicker-group table{width:95%;margin:0 auto .4em}.ui-datepicker-multi-2 .ui-datepicker-group{width:50%}.ui-datepicker-multi-3 .ui-datepicker-group{width:33.3%}.ui-datepicker-multi-4 .ui-datepicker-group{width:25%}.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header,.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header{border-left-width:0}.ui-datepicker-multi .ui-datepicker-buttonpane{clear:left}.ui-datepicker-row-break{clear:both;width:100%;font-size:0}.ui-datepicker-rtl{direction:rtl}.ui-datepicker-rtl .ui-datepicker-prev{right:2px;left:auto}.ui-datepicker-rtl .ui-datepicker-next{left:2px;right:auto}.ui-datepicker-rtl .ui-datepicker-prev:hover{right:1px;left:auto}.ui-datepicker-rtl .ui-datepicker-next:hover{left:1px;right:auto}.ui-datepicker-rtl .ui-datepicker-buttonpane{clear:right}.ui-datepicker-rtl .ui-datepicker-buttonpane button{float:left}.ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current,.ui-datepicker-rtl .ui-datepicker-group{float:right}.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header,.ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header{border-right-width:0;border-left-width:1px}.ui-dialog{overflow:hidden;position:absolute;top:0;left:0;padding:.2em;outline:0}.ui-dialog .ui-dialog-titlebar{padding:.4em 1em;position:relative}.ui-dialog .ui-dialog-title{float:left;margin:.1em 0;white-space:nowrap;width:90%;overflow:hidden;text-overflow:ellipsis}.ui-dialog .ui-dialog-titlebar-close{position:absolute;right:.3em;top:50%;width:20px;margin:-10px 0 0 0;padding:1px;height:20px}.ui-dialog .ui-dialog-content{position:relative;border:0;padding:.5em 1em;background:none;overflow:auto}.ui-dialog .ui-dialog-buttonpane{text-align:left;border-width:1px 0 0 0;background-image:none;margin-top:.5em;padding:.3em 1em .5em .4em}.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset{float:right}.ui-dialog .ui-dialog-buttonpane button{margin:.5em .4em .5em 0;cursor:pointer}.ui-dialog .ui-resizable-se{width:12px;height:12px;right:-5px;bottom:-5px;background-position:16px 16px}.ui-draggable .ui-dialog-titlebar{cursor:move}.ui-menu{list-style:none;padding:2px;margin:0;display:block;outline:none}.ui-menu .ui-menu{margin-top:-3px;position:absolute}.ui-menu .ui-menu-item{margin:0;padding:0;width:100%;list-style-image:url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)}.ui-menu .ui-menu-divider{margin:5px -2px 5px -2px;height:0;font-size:0;line-height:0;border-width:1px 0 0 0}.ui-menu .ui-menu-item a{text-decoration:none;display:block;padding:2px .4em;line-height:1.5;min-height:0;font-weight:normal}.ui-menu .ui-menu-item a.ui-state-focus,.ui-menu .ui-menu-item a.ui-state-active{font-weight:normal;margin:-1px}.ui-menu .ui-state-disabled{font-weight:normal;margin:.4em 0 .2em;line-height:1.5}.ui-menu .ui-state-disabled a{cursor:default}.ui-menu-icons{position:relative}.ui-menu-icons .ui-menu-item a{position:relative;padding-left:2em}.ui-menu .ui-icon{position:absolute;top:.2em;left:.2em}.ui-menu .ui-menu-icon{position:static;float:right}.ui-progressbar{height:2em;text-align:left;overflow:hidden}.ui-progressbar .ui-progressbar-value{margin:-1px;height:100%}.ui-progressbar .ui-progressbar-overlay{background:url("images/animated-overlay.gif");height:100%;filter:alpha(opacity=25);opacity:0.25}.ui-progressbar-indeterminate .ui-progressbar-value{background-image:none}.ui-resizable{position:relative}.ui-resizable-handle{position:absolute;font-size:0.1px;display:block}.ui-resizable-disabled .ui-resizable-handle,.ui-resizable-autohide .ui-resizable-handle{display:none}.ui-resizable-n{cursor:n-resize;height:7px;width:100%;top:-5px;left:0}.ui-resizable-s{cursor:s-resize;height:7px;width:100%;bottom:-5px;left:0}.ui-resizable-e{cursor:e-resize;width:7px;right:-5px;top:0;height:100%}.ui-resizable-w{cursor:w-resize;width:7px;left:-5px;top:0;height:100%}.ui-resizable-se{cursor:se-resize;width:12px;height:12px;right:1px;bottom:1px}.ui-resizable-sw{cursor:sw-resize;width:9px;height:9px;left:-5px;bottom:-5px}.ui-resizable-nw{cursor:nw-resize;width:9px;height:9px;left:-5px;top:-5px}.ui-resizable-ne{cursor:ne-resize;width:9px;height:9px;right:-5px;top:-5px}.ui-selectable-helper{position:absolute;z-index:100;border:1px dotted black}.ui-slider{position:relative;text-align:left}.ui-slider .ui-slider-handle{position:absolute;z-index:2;width:1.2em;height:1.2em;cursor:default}.ui-slider .ui-slider-range{position:absolute;z-index:1;font-size:.7em;display:block;border:0;background-position:0 0}.ui-slider.ui-state-disabled .ui-slider-handle,.ui-slider.ui-state-disabled .ui-slider-range{filter:inherit}.ui-slider-horizontal{height:.8em}.ui-slider-horizontal .ui-slider-handle{top:-.3em;margin-left:-.6em}.ui-slider-horizontal .ui-slider-range{top:0;height:100%}.ui-slider-horizontal .ui-slider-range-min{left:0}.ui-slider-horizontal .ui-slider-range-max{right:0}.ui-slider-vertical{width:.8em;height:100px}.ui-slider-vertical .ui-slider-handle{left:-.3em;margin-left:0;margin-bottom:-.6em}.ui-slider-vertical .ui-slider-range{left:0;width:100%}.ui-slider-vertical .ui-slider-range-min{bottom:0}.ui-slider-vertical .ui-slider-range-max{top:0}.ui-spinner{position:relative;display:inline-block;overflow:hidden;padding:0;vertical-align:middle}.ui-spinner-input{border:none;background:none;color:inherit;padding:0;margin:.2em 0;vertical-align:middle;margin-left:.4em;margin-right:22px}.ui-spinner-button{width:16px;height:50%;font-size:.5em;padding:0;margin:0;text-align:center;position:absolute;cursor:default;display:block;overflow:hidden;right:0}.ui-spinner a.ui-spinner-button{border-top:none;border-bottom:none;border-right:none}.ui-spinner .ui-icon{position:absolute;margin-top:-8px;top:50%;left:0}.ui-spinner-up{top:0}.ui-spinner-down{bottom:0}.ui-spinner .ui-icon-triangle-1-s{background-position:-65px -16px}.ui-tabs{position:relative;padding:.2em}.ui-tabs .ui-tabs-nav{margin:0;padding:.2em .2em 0}.ui-tabs .ui-tabs-nav li{list-style:none;float:left;position:relative;top:0;margin:1px .2em 0 0;border-bottom-width:0;padding:0;white-space:nowrap}.ui-tabs .ui-tabs-nav .ui-tabs-anchor{float:left;padding:.5em 1em;text-decoration:none}.ui-tabs .ui-tabs-nav li.ui-tabs-active{margin-bottom:-1px;padding-bottom:1px}.ui-tabs .ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor,.ui-tabs .ui-tabs-nav li.ui-state-disabled .ui-tabs-anchor,.ui-tabs .ui-tabs-nav li.ui-tabs-loading .ui-tabs-anchor{cursor:text}.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor{cursor:pointer}.ui-tabs .ui-tabs-panel{display:block;border-width:0;padding:1em 1.4em;background:none}.ui-tooltip{padding:8px;position:absolute;z-index:9999;max-width:300px;-webkit-box-shadow:0 0 5px #aaa;box-shadow:0 0 5px #aaa}body .ui-tooltip{border-width:2px}.ui-widget{font-family:Verdana,Arial,sans-serif;font-size:1.1em}.ui-widget .ui-widget{font-size:1em}.ui-widget input,.ui-widget select,.ui-widget textarea,.ui-widget button{font-family:Verdana,Arial,sans-serif;font-size:1em}.ui-widget-content{border:1px solid #aaa;background:#fff url(images/ui-bg_flat_75_ffffff_40x100.png) 50% 50% repeat-x;color:#222}.ui-widget-content a{color:#222}.ui-widget-header{border:1px solid #aaa;background:#ccc url(images/ui-bg_highlight-soft_75_cccccc_1x100.png) 50% 50% repeat-x;color:#222;font-weight:bold}.ui-widget-header a{color:#222}.ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default{border:1px solid #d3d3d3;background:#e6e6e6 url(images/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#555}.ui-state-default a,.ui-state-default a:link,.ui-state-default a:visited{color:#555;text-decoration:none}.ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state-focus{border:1px solid #999;background:#dadada url(images/ui-bg_glass_75_dadada_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#212121}.ui-state-hover a,.ui-state-hover a:hover,.ui-state-hover a:link,.ui-state-hover a:visited,.ui-state-focus a,.ui-state-focus a:hover,.ui-state-focus a:link,.ui-state-focus a:visited{color:#212121;text-decoration:none}.ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active{border:1px solid #aaa;background:#fff url(images/ui-bg_glass_65_ffffff_1x400.png) 50% 50% repeat-x;font-weight:normal;color:#212121}.ui-state-active a,.ui-state-active a:link,.ui-state-active a:visited{color:#212121;text-decoration:none}.ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight{border:1px solid #fcefa1;background:#fbf9ee url(images/ui-bg_glass_55_fbf9ee_1x400.png) 50% 50% repeat-x;color:#363636}.ui-state-highlight a,.ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a{color:#363636}.ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error{border:1px solid #cd0a0a;background:#fef1ec url(images/ui-bg_glass_95_fef1ec_1x400.png) 50% 50% repeat-x;color:#cd0a0a}.ui-state-error a,.ui-widget-content .ui-state-error a,.ui-widget-header .ui-state-error a{color:#cd0a0a}.ui-state-error-text,.ui-widget-content .ui-state-error-text,.ui-widget-header .ui-state-error-text{color:#cd0a0a}.ui-priority-primary,.ui-widget-content .ui-priority-primary,.ui-widget-header .ui-priority-primary{font-weight:bold}.ui-priority-secondary,.ui-widget-content .ui-priority-secondary,.ui-widget-header .ui-priority-secondary{opacity:.7;filter:Alpha(Opacity=70);font-weight:normal}.ui-state-disabled,.ui-widget-content .ui-state-disabled,.ui-widget-header .ui-state-disabled{opacity:.35;filter:Alpha(Opacity=35);background-image:none}.ui-state-disabled .ui-icon{filter:Alpha(Opacity=35)}.ui-icon{width:16px;height:16px}.ui-icon,.ui-widget-content .ui-icon{background-image:url(images/ui-icons_222222_256x240.png)}.ui-widget-header .ui-icon{background-image:url(images/ui-icons_222222_256x240.png)}.ui-state-default .ui-icon{background-image:url(images/ui-icons_888888_256x240.png)}.ui-state-hover .ui-icon,.ui-state-focus .ui-icon{background-image:url(images/ui-icons_454545_256x240.png)}.ui-state-active .ui-icon{background-image:url(images/ui-icons_454545_256x240.png)}.ui-state-highlight .ui-icon{background-image:url(images/ui-icons_2e83ff_256x240.png)}.ui-state-error .ui-icon,.ui-state-error-text .ui-icon{background-image:url(images/ui-icons_cd0a0a_256x240.png)}.ui-icon-blank{background-position:16px 16px}.ui-icon-carat-1-n{background-position:0 0}.ui-icon-carat-1-ne{background-position:-16px 0}.ui-icon-carat-1-e{background-position:-32px 0}.ui-icon-carat-1-se{background-position:-48px 0}.ui-icon-carat-1-s{background-position:-64px 0}.ui-icon-carat-1-sw{background-position:-80px 0}.ui-icon-carat-1-w{background-position:-96px 0}.ui-icon-carat-1-nw{background-position:-112px 0}.ui-icon-carat-2-n-s{background-position:-128px 0}.ui-icon-carat-2-e-w{background-position:-144px 0}.ui-icon-triangle-1-n{background-position:0 -16px}.ui-icon-triangle-1-ne{background-position:-16px -16px}.ui-icon-triangle-1-e{background-position:-32px -16px}.ui-icon-triangle-1-se{background-position:-48px -16px}.ui-icon-triangle-1-s{background-position:-64px -16px}.ui-icon-triangle-1-sw{background-position:-80px -16px}.ui-icon-triangle-1-w{background-position:-96px -16px}.ui-icon-triangle-1-nw{background-position:-112px -16px}.ui-icon-triangle-2-n-s{background-position:-128px -16px}.ui-icon-triangle-2-e-w{background-position:-144px -16px}.ui-icon-arrow-1-n{background-position:0 -32px}.ui-icon-arrow-1-ne{background-position:-16px -32px}.ui-icon-arrow-1-e{background-position:-32px -32px}.ui-icon-arrow-1-se{background-position:-48px -32px}.ui-icon-arrow-1-s{background-position:-64px -32px}.ui-icon-arrow-1-sw{background-position:-80px -32px}.ui-icon-arrow-1-w{background-position:-96px -32px}.ui-icon-arrow-1-nw{background-position:-112px -32px}.ui-icon-arrow-2-n-s{background-position:-128px -32px}.ui-icon-arrow-2-ne-sw{background-position:-144px -32px}.ui-icon-arrow-2-e-w{background-position:-160px -32px}.ui-icon-arrow-2-se-nw{background-position:-176px -32px}.ui-icon-arrowstop-1-n{background-position:-192px -32px}.ui-icon-arrowstop-1-e{background-position:-208px -32px}.ui-icon-arrowstop-1-s{background-position:-224px -32px}.ui-icon-arrowstop-1-w{background-position:-240px -32px}.ui-icon-arrowthick-1-n{background-position:0 -48px}.ui-icon-arrowthick-1-ne{background-position:-16px -48px}.ui-icon-arrowthick-1-e{background-position:-32px -48px}.ui-icon-arrowthick-1-se{background-position:-48px -48px}.ui-icon-arrowthick-1-s{background-position:-64px -48px}.ui-icon-arrowthick-1-sw{background-position:-80px -48px}.ui-icon-arrowthick-1-w{background-position:-96px -48px}.ui-icon-arrowthick-1-nw{background-position:-112px -48px}.ui-icon-arrowthick-2-n-s{background-position:-128px -48px}.ui-icon-arrowthick-2-ne-sw{background-position:-144px -48px}.ui-icon-arrowthick-2-e-w{background-position:-160px -48px}.ui-icon-arrowthick-2-se-nw{background-position:-176px -48px}.ui-icon-arrowthickstop-1-n{background-position:-192px -48px}.ui-icon-arrowthickstop-1-e{background-position:-208px -48px}.ui-icon-arrowthickstop-1-s{background-position:-224px -48px}.ui-icon-arrowthickstop-1-w{background-position:-240px -48px}.ui-icon-arrowreturnthick-1-w{background-position:0 -64px}.ui-icon-arrowreturnthick-1-n{background-position:-16px -64px}.ui-icon-arrowreturnthick-1-e{background-position:-32px -64px}.ui-icon-arrowreturnthick-1-s{background-position:-48px -64px}.ui-icon-arrowreturn-1-w{background-position:-64px -64px}.ui-icon-arrowreturn-1-n{background-position:-80px -64px}.ui-icon-arrowreturn-1-e{background-position:-96px -64px}.ui-icon-arrowreturn-1-s{background-position:-112px -64px}.ui-icon-arrowrefresh-1-w{background-position:-128px -64px}.ui-icon-arrowrefresh-1-n{background-position:-144px -64px}.ui-icon-arrowrefresh-1-e{background-position:-160px -64px}.ui-icon-arrowrefresh-1-s{background-position:-176px -64px}.ui-icon-arrow-4{background-position:0 -80px}.ui-icon-arrow-4-diag{background-position:-16px -80px}.ui-icon-extlink{background-position:-32px -80px}.ui-icon-newwin{background-position:-48px -80px}.ui-icon-refresh{background-position:-64px -80px}.ui-icon-shuffle{background-position:-80px -80px}.ui-icon-transfer-e-w{background-position:-96px -80px}.ui-icon-transferthick-e-w{background-position:-112px -80px}.ui-icon-folder-collapsed{background-position:0 -96px}.ui-icon-folder-open{background-position:-16px -96px}.ui-icon-document{background-position:-32px -96px}.ui-icon-document-b{background-position:-48px -96px}.ui-icon-note{background-position:-64px -96px}.ui-icon-mail-closed{background-position:-80px -96px}.ui-icon-mail-open{background-position:-96px -96px}.ui-icon-suitcase{background-position:-112px -96px}.ui-icon-comment{background-position:-128px -96px}.ui-icon-person{background-position:-144px -96px}.ui-icon-print{background-position:-160px -96px}.ui-icon-trash{background-position:-176px -96px}.ui-icon-locked{background-position:-192px -96px}.ui-icon-unlocked{background-position:-208px -96px}.ui-icon-bookmark{background-position:-224px -96px}.ui-icon-tag{background-position:-240px -96px}.ui-icon-home{background-position:0 -112px}.ui-icon-flag{background-position:-16px -112px}.ui-icon-calendar{background-position:-32px -112px}.ui-icon-cart{background-position:-48px -112px}.ui-icon-pencil{background-position:-64px -112px}.ui-icon-clock{background-position:-80px -112px}.ui-icon-disk{background-position:-96px -112px}.ui-icon-calculator{background-position:-112px -112px}.ui-icon-zoomin{background-position:-128px -112px}.ui-icon-zoomout{background-position:-144px -112px}.ui-icon-search{background-position:-160px -112px}.ui-icon-wrench{background-position:-176px -112px}.ui-icon-gear{background-position:-192px -112px}.ui-icon-heart{background-position:-208px -112px}.ui-icon-star{background-position:-224px -112px}.ui-icon-link{background-position:-240px -112px}.ui-icon-cancel{background-position:0 -128px}.ui-icon-plus{background-position:-16px -128px}.ui-icon-plusthick{background-position:-32px -128px}.ui-icon-minus{background-position:-48px -128px}.ui-icon-minusthick{background-position:-64px -128px}.ui-icon-close{background-position:-80px -128px}.ui-icon-closethick{background-position:-96px -128px}.ui-icon-key{background-position:-112px -128px}.ui-icon-lightbulb{background-position:-128px -128px}.ui-icon-scissors{background-position:-144px -128px}.ui-icon-clipboard{background-position:-160px -128px}.ui-icon-copy{background-position:-176px -128px}.ui-icon-contact{background-position:-192px -128px}.ui-icon-image{background-position:-208px -128px}.ui-icon-video{background-position:-224px -128px}.ui-icon-script{background-position:-240px -128px}.ui-icon-alert{background-position:0 -144px}.ui-icon-info{background-position:-16px -144px}.ui-icon-notice{background-position:-32px -144px}.ui-icon-help{background-position:-48px -144px}.ui-icon-check{background-position:-64px -144px}.ui-icon-bullet{background-position:-80px -144px}.ui-icon-radio-on{background-position:-96px -144px}.ui-icon-radio-off{background-position:-112px -144px}.ui-icon-pin-w{background-position:-128px -144px}.ui-icon-pin-s{background-position:-144px -144px}.ui-icon-play{background-position:0 -160px}.ui-icon-pause{background-position:-16px -160px}.ui-icon-seek-next{background-position:-32px -160px}.ui-icon-seek-prev{background-position:-48px -160px}.ui-icon-seek-end{background-position:-64px -160px}.ui-icon-seek-start{background-position:-80px -160px}.ui-icon-seek-first{background-position:-80px -160px}.ui-icon-stop{background-position:-96px -160px}.ui-icon-eject{background-position:-112px -160px}.ui-icon-volume-off{background-position:-128px -160px}.ui-icon-volume-on{background-position:-144px -160px}.ui-icon-power{background-position:0 -176px}.ui-icon-signal-diag{background-position:-16px -176px}.ui-icon-signal{background-position:-32px -176px}.ui-icon-battery-0{background-position:-48px -176px}.ui-icon-battery-1{background-position:-64px -176px}.ui-icon-battery-2{background-position:-80px -176px}.ui-icon-battery-3{background-position:-96px -176px}.ui-icon-circle-plus{background-position:0 -192px}.ui-icon-circle-minus{background-position:-16px -192px}.ui-icon-circle-close{background-position:-32px -192px}.ui-icon-circle-triangle-e{background-position:-48px -192px}.ui-icon-circle-triangle-s{background-position:-64px -192px}.ui-icon-circle-triangle-w{background-position:-80px -192px}.ui-icon-circle-triangle-n{background-position:-96px -192px}.ui-icon-circle-arrow-e{background-position:-112px -192px}.ui-icon-circle-arrow-s{background-position:-128px -192px}.ui-icon-circle-arrow-w{background-position:-144px -192px}.ui-icon-circle-arrow-n{background-position:-160px -192px}.ui-icon-circle-zoomin{background-position:-176px -192px}.ui-icon-circle-zoomout{background-position:-192px -192px}.ui-icon-circle-check{background-position:-208px -192px}.ui-icon-circlesmall-plus{background-position:0 -208px}.ui-icon-circlesmall-minus{background-position:-16px -208px}.ui-icon-circlesmall-close{background-position:-32px -208px}.ui-icon-squaresmall-plus{background-position:-48px -208px}.ui-icon-squaresmall-minus{background-position:-64px -208px}.ui-icon-squaresmall-close{background-position:-80px -208px}.ui-icon-grip-dotted-vertical{background-position:0 -224px}.ui-icon-grip-dotted-horizontal{background-position:-16px -224px}.ui-icon-grip-solid-vertical{background-position:-32px -224px}.ui-icon-grip-solid-horizontal{background-position:-48px -224px}.ui-icon-gripsmall-diagonal-se{background-position:-64px -224px}.ui-icon-grip-diagonal-se{background-position:-80px -224px}.ui-corner-all,.ui-corner-top,.ui-corner-left,.ui-corner-tl{border-top-left-radius:4px}.ui-corner-all,.ui-corner-top,.ui-corner-right,.ui-corner-tr{border-top-right-radius:4px}.ui-corner-all,.ui-corner-bottom,.ui-corner-left,.ui-corner-bl{border-bottom-left-radius:4px}.ui-corner-all,.ui-corner-bottom,.ui-corner-right,.ui-corner-br{border-bottom-right-radius:4px}.ui-widget-overlay{background:#aaa url(images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;opacity:.3;filter:Alpha(Opacity=30)}.ui-widget-shadow{margin:-8px 0 0 -8px;padding:8px;background:#aaa url(images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;opacity:.3;filter:Alpha(Opacity=30);border-radius:8px}</style><style style="cursor: auto;">.picker-dialog-frame{width:100%;height:100%;border:0;overflow:hidden}.picker-dialog-bg{position:absolute;top:0;left:0;background-color:#fff;z-index:1000}.picker-dialog{position:absolute;top:0;left:0;background-color:#fff;border:1px solid #acacac;width:auto;padding:0;z-index:1001;overflow:auto;-moz-box-shadow:rgba(0,0,0,.2) 0 4px 16px;-webkit-box-shadow:rgba(0,0,0,.2) 0 4px 16px;box-shadow:rgba(0,0,0,.2) 0 4px 16px}.picker-dialog-content{font-size:0;padding:0}.picker-dialog-title,.picker-dialog-buttons{display:none} </style><meta name="author" content="Nitrolabs Limited" style="cursor: auto;"><meta name="rel_author" content="https://www.nitrolabs.com" style="cursor: auto;"><meta property="og:image" content="https://www.luminpdf.com/images/og_image.jpg" style="cursor: auto;"><meta property="twitter:title" content="oblig_forside_2017.pdf - Lumin PDF" style="cursor: auto;"><meta property="og:title" content="oblig_forside_2017.pdf - Lumin PDF" style="cursor: auto;"><meta property="twitter:url" content="https://www.luminpdf.com/viewer/Db769bdeEjMPCXJP3" style="cursor: auto;"><meta property="og:url" content="https://www.luminpdf.com/viewer/Db769bdeEjMPCXJP3" style="cursor: auto;"><meta name="description" content="View, edit and annotate PDF documents in your browser" style="cursor: auto;"><meta property="twitter:description" content="View, edit and annotate PDF documents in your browser" style="cursor: auto;"><meta property="og:description" content="View, edit and annotate PDF documents in your browser" style="cursor: auto;"><meta name="robots" content="noindex,nofollow" style="cursor: auto;"></head>
+<body style="cursor: auto;">
+
+
+
+<script type="text/javascript" style="cursor: auto;">__meteor_runtime_config__ = JSON.parse(decodeURIComponent("%7B%22meteorRelease%22%3A%22METEOR%401.3.3.1%22%2C%22meteorEnv%22%3A%7B%22NODE_ENV%22%3A%22production%22%2C%22TEST_METADATA%22%3A%22%7B%7D%22%7D%2C%22PUBLIC_SETTINGS%22%3A%7B%22cookieDomain%22%3A%22.luminpdf.com%22%2C%22reCaptcha%22%3A%7B%22privateKey%22%3A%226Lcf0g0UAAAAALsynrGiOV-l6_YAvL1TUJamoeRL%22%2C%22publicKey%22%3A%226Lcf0g0UAAAAAFQHEDhmgUAUyyQ8iFfnVASpR28D%22%7D%2C%22google%22%3A%7B%22picker%22%3A%7B%22scope%22%3A%5B%22https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.readonly%22%2C%22https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file%22%5D%7D%2C%22open%22%3A%7B%22scope%22%3A%5B%22https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file%22%5D%7D%2C%22login%22%3A%7B%22scope%22%3A%5B%22email%22%2C%22https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%22%2C%22https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.file%22%5D%7D%7D%2C%22ga%22%3A%7B%22id%22%3A%22UA-41471845-1%22%7D%2C%22s3SignatureImage%22%3A%7B%22url%22%3A%22https%3A%2F%2Fs3-us-west-2.amazonaws.com%22%2C%22region%22%3A%22us-west-2%22%2C%22bucket%22%3A%22lumin-signatures%22%2C%22accessKey%22%3A%22AKIAJXTMF3Q53L5VNWPA%22%2C%22secretKey%22%3A%22W70amG1sxqoKJvY%2BDNNhbbBHH71VH03C71%2FDc9Rk%22%7D%2C%22s3%22%3A%7B%22region%22%3A%22us-west-1%22%2C%22bucket%22%3A%22lumin-documents-california%22%7D%2C%22ratingWaitTime%22%3A300000%2C%22timeLimitForADocumentNotification%22%3A60%2C%22waitTimeBeforeSendingFirstEmail%22%3A30000%2C%22brainTree%22%3A%7B%22currency%22%3A%7B%22USD%22%3A%22USD%22%2C%22NZD%22%3A%22NZD%22%2C%22CAD%22%3A%22CAD%22%2C%22EUR%22%3A%22EUR%22%7D%2C%22amount%22%3A%7B%22monthly%22%3A4.99%2C%22yearly%22%3A29.99%7D%2C%22fixAmount%22%3A%7B%22monthly%22%3A3.5%2C%22yearly%22%3A%2222.00%22%7D%2C%22plan%22%3A%7B%22USDMonthly%22%3A%22USD_Monthly%22%2C%22USDYearly%22%3A%22USD_Yearly%22%2C%22NZDMonthly%22%3A%22NZD_Monthly%22%2C%22NZDYearly%22%3A%22NZD_Yearly%22%2C%22CADMonthly%22%3A%22CAD_Monthly%22%2C%22CADYearly%22%3A%22CAD_Yearly%22%2C%22EURMonthly%22%3A%22EUR_Monthly%22%2C%22EURYearly%22%3A%22EUR_Yearly%22%7D%2C%22merchantAccount%22%3A%7B%22USD%22%3A%22nitrolabsluminpdfUSD%22%2C%22NZD%22%3A%22nitrolabsluminpdfNZD%22%2C%22CAD%22%3A%22nitrolabsluminpdfCAD%22%2C%22EUR%22%3A%22nitrolabsluminpdfEUR%22%7D%2C%22merchantAccountName%22%3A%7B%22nitrolabsluminpdfUSD%22%3A%22Lumin%20PDF%20USD%20(Nitrolabs%20Limited)%22%2C%22nitrolabsluminpdfNZD%22%3A%22Lumin%20PDF%20NZD%20(Nitrolabs%20Limited)%22%2C%22nitrolabsluminpdfCAD%22%3A%22Lumin%20PDF%20CAD%20(Nitrolabs%20Limited)%22%2C%22nitrolabsluminpdfEUR%22%3A%22Lumin%20PDF%20EUR%20(Nitrolabs%20Limited)%22%7D%7D%2C%22contactForm%22%3A%7B%22name%22%3A%22Lumin%20Support%22%2C%22email%22%3A%22contact%40nitrolabs.desk-mail.com%22%7D%7D%2C%22ROOT_URL%22%3A%22https%3A%2F%2Fwww.luminpdf.com%22%2C%22ROOT_URL_PATH_PREFIX%22%3A%22%22%2C%22appId%22%3A%221p529ef7l2m5i75sjv7%22%2C%22kadira%22%3A%7B%22appId%22%3A%22r9xsnZ6FReQPnLvG9%22%2C%22endpoint%22%3A%22https%3A%2F%2Fenginex.kadira.io%22%2C%22clientEngineSyncDelay%22%3A10000%2C%22enableErrorTracking%22%3Atrue%7D%2C%22autoupdateVersion%22%3A%228b0192cdbf12fddebdff1b13caefdaf3b4e45886%22%2C%22autoupdateVersionRefreshable%22%3A%22fc517c23fb1ec850aca20e8296fcad692d3d31ad%22%2C%22autoupdateVersionCordova%22%3A%22none%22%7D"));</script>
+
+  <script type="text/javascript" src="./oblig_forside_2017_files/0c3e2f3492f7074fe7e45571095505580a7613c7.js.download" gapi_processed="true" style="cursor: auto;"></script>
+
+
+
+
+
+	
+	
+	
+
+	
+	
+        <div id="outerContainer" style="cursor: auto;">
+    <div id="sidebarContainer" style="cursor: auto;" class="">
+      <div id="toolbarSidebar" style="cursor: auto;">
+        <div class="bg-mask" style="cursor: auto;"></div>
+        <div class="splitToolbarButton toggled" style="cursor: auto;">
+          <button id="viewThumbnail" class="toolbarButton group toggled" title="Show Thumbnails" tabindex="2" data-l10n-id="thumbs" style="cursor: auto;">
+            <i class="icon-grid" style="cursor: auto;"></i>
+            <span data-l10n-id="thumbs_label" style="cursor: auto;">Thumbnails</span>
+          </button>
+          <button id="viewOutline" class="toolbarButton group" title="Show Document Outline" tabindex="3" data-l10n-id="outline" disabled="" style="cursor: auto;">
+            <i class="icon-list" style="cursor: auto;"></i>
+            <span data-l10n-id="outline_label" style="cursor: auto;">Document Outline</span>
+          </button>
+          <button id="viewAttachments" class="toolbarButton group" title="Show Attachments" tabindex="4" data-l10n-id="attachments" disabled="" style="cursor: auto;">
+            <i class="icon-attach" style="cursor: auto;"></i>
+            <span data-l10n-id="attachments_label" style="cursor: auto;">Attachments</span>
+          </button>
+        </div>
+      </div>
+      <div id="sidebarContent" style="cursor: auto;">
+        <div class="bg-mask" style="cursor: auto;"></div>
+        <div id="thumbnailView" style="cursor: auto;">
+        <a href="https://www.luminpdf.com/viewer/Db769bdeEjMPCXJP3#page=1" title="Page 1" style="cursor: auto;"><div id="thumbnailContainer1" class="thumbnail selected" style="cursor: auto;"><div class="thumbnailSelectionRing" style="width: 100px; height: 132px; cursor: auto;"></div></div></a></div>
+        <div id="outlineView" class="hidden" style="cursor: auto;"></div>
+        <div id="attachmentsView" class="hidden" style="cursor: auto;"></div>
+      </div>
+    </div>
+    <!-- sidebarContainer -->
+    <div id="mainContainer" style="cursor: auto;">
+      <div class="findbar hidden doorHanger hiddenSmallView" id="findbar" style="cursor: auto;">
+        <span class="toolbarLabel search_icon icon-search" data-l10n-id="find_label" style="cursor: auto;"></span>
+        <input id="findInput" class="toolbarField" tabindex="91" style="cursor: auto;">
+        <span class="splitToolbarButton" style="cursor: auto;">
+        <button class="toolbarButton findPrevious" title="" id="findPrevious" tabindex="92" data-l10n-id="find_previous" style="cursor: auto;">
+        <i class="icon-search_up" style="cursor: auto;"></i>
+        <span data-l10n-id="find_previous_label" style="cursor: auto;">Previous</span>
+        </button>
+        <button class="toolbarButton findNext" title="" id="findNext" tabindex="93" data-l10n-id="find_next" style="cursor: auto;">
+        <i class="icon-search_down" style="cursor: auto;"></i>
+        <span data-l10n-id="find_next_label" style="cursor: auto;">Next</span>
+        </button>
+        </span>
+        <span class="toolbarLabel pagination" style="cursor: auto;">
+        <span id="find_match_index" style="cursor: auto;">0</span> of <span id="find_matches" style="cursor: auto;">0</span>
+        </span>
+        <input style="display: none; cursor: auto;" type="checkbox" id="findHighlightAll" class="toolbarField" checked="checked">
+        <label style="display: none; cursor: auto;" for="findHighlightAll" class="toolbarLabel" tabindex="94" data-l10n-id="find_highlight">Highlight all</label>
+        <input style="display: none; cursor: auto;" type="checkbox" id="findMatchCase" class="toolbarField">
+        <label style="display: none; cursor: auto;" for="findMatchCase" class="toolbarLabel" tabindex="95" data-l10n-id="find_match_case_label">Match case</label>
+        <span style="display: none; cursor: auto;" id="findMsg" class="toolbarLabel"></span>
+      </div>
+      <!-- findbar -->
+      <div id="secondaryToolbar" class="secondaryToolbar hidden doorHangerRight desktop" style="cursor: auto;">
+        <div id="secondaryToolbarButtonContainer" style="max-height: 885px; cursor: auto;">
+          <button style="display: none; cursor: auto;" id="secondaryOpenFile" class="secondaryToolbarButton openFile visibleLargeView" title="Open File" tabindex="52" data-l10n-id="open_file">
+            <span data-l10n-id="open_file_label" style="cursor: auto;">Open</span>
+          </button>
+          <button style="display: none; cursor: auto;" id="secondaryPrint" class="secondaryToolbarButton print visibleMediumView" title="Print" tabindex="53" data-l10n-id="print">
+            <span data-l10n-id="print_label" style="cursor: auto;">Print</span>
+          </button>
+          <button style="display: none; cursor: auto;" id="secondaryDownload" class="secondaryToolbarButton download visibleMediumView" title="Download" tabindex="54" data-l10n-id="download">
+            <span data-l10n-id="download_label" style="cursor: auto;">Download</span>
+          </button>
+          <button style="display: none; cursor: auto;" id="secondarySignature" class="secondaryToolbarButton download
+            visibleMediumView" title="Signature" tabindex="54" data-l10n-id="signature">
+            <span data-l10n-id="signature_label" style="cursor: auto;">Signature</span>
+          </button>
+          <a href="https://www.luminpdf.com/viewer/Db769bdeEjMPCXJP3#page=1&amp;zoom=100,-444,774" style="display: none; cursor: auto;" id="secondaryViewBookmark" class="secondaryToolbarButton bookmark visibleSmallView" title="Current view (copy or open in new window)" tabindex="55" data-l10n-id="bookmark">
+            <span data-l10n-id="bookmark_label" style="cursor: auto;">Current View</span>
+          </a>
+          <button id="secondaryPageEditMode" class="secondaryToolbarButton pageEditMode" title="Switch to Page Edit Mode" style="cursor: auto;">
+            <i class="fa fa-pencil-square-o" style="cursor: auto;"></i>
+            <span data-l10n-id="page_edit_mode_label" id="pageEditMode" style="cursor: auto;">Page Edit Mode</span>
+          </button>
+          <button id=" secondaryPresentationMode" class="secondaryToolbarButton presentationMode" title="Switch to Presentation Mode" tabindex="51" data-l10n-id="presentation_mode" style="cursor: auto;">
+            <i class="icon-fullscreen" style="cursor: auto;"></i>
+            <span data-l10n-id="presentation_mode_label" id="presentationMode" style="cursor: auto;">Presentation Mode</span>
+          </button>
+          <button id="firstPage" class="secondaryToolbarButton firstPage" title="Go to First Page" tabindex="56" data-l10n-id="first_page" disabled="" style="cursor: auto;">
+            <i class="icon-firstpage" style="cursor: auto;"></i>
+            <span data-l10n-id="first_page_label" style="cursor: auto;">Go to First Page</span>
+          </button>
+          <button id="lastPage" class="secondaryToolbarButton lastPage" title="Go to Last Page" tabindex="57" data-l10n-id="last_page" disabled="" style="cursor: auto;">
+            <i class="icon-lastpage" style="cursor: auto;"></i>
+            <span data-l10n-id="last_page_label" style="cursor: auto;">Go to Last Page</span>
+          </button>
+          <button id="viewUndo" class="secondaryToolbarButton viewUndo" title="Undo" tabindex="12" data-l10n-id="undo" style="cursor: auto;">
+            <i class="glyphicon glyphicon-chevron-left" style="cursor: auto;"></i>
+            <span data-l10n-id="findbar_label" style="cursor: auto;">Undo</span>
+          </button>
+          <button id="viewRedo" class="secondaryToolbarButton viewRedo" title="Redo" tabindex="12" data-l10n-id="redo" style="cursor: auto;">
+            <i class="glyphicon glyphicon-chevron-right" style="cursor: auto;"></i>
+            <span data-l10n-id="findbar_label" style="cursor: auto;">Redo</span>
+          </button>
+          <button id="mobilePageRotateCw" class="secondaryToolbarButton rotateCw" title="Rotate Clockwise (All Pages - Temporary)" tabindex="59" data-l10n-id="page_rotate_cw" style="cursor: auto;">
+            <i class="icon-rotate" style="cursor: auto;"></i>
+            <span data-l10n-id="page_rotate_cw_label" style="cursor: auto;">Rotate Clockwise</span>
+          </button>
+          <button id="toggleHandTool" class="secondaryToolbarButton handTool" title="Enable hand tool" tabindex="60" data-l10n-id="hand_tool_enable" style="cursor: auto;">
+            <i class="icon-hand" style="cursor: auto;"></i>
+            <span data-l10n-id="hand_tool_enable_label" style="cursor: auto;">Enable hand tool</span>
+          </button>
+          <span class="toolbarButton-newUI btn-share" id="sharingButton" style="cursor: auto;">
+          <button id="share" class="secondaryToolbarButton share" title="Share" tabindex="37" data-l10n-id="share" style="cursor: auto;">
+          <i class="icon-share" style="cursor: auto;"></i>
+          <span data-l10n-id="share_label" style="cursor: auto;">Share</span>
+          </button>
+          </span>
+          <span class="toolbarButton-newUI btn-signature for-mobile" id="signatureBtnWrapper" event-sign="t2Signature" style="cursor: auto;">
+            <button id="signatureMobile" class="toolbarButton print hiddenMediumView" title="Signature" tabindex="28" data-l10n-id="signature" style="cursor: auto;">
+              <i class="icon-sign" style="cursor: auto;"></i>
+              <span data-l10n-id="signature_label" style="cursor: auto;">Signature</span>
+            </button>
+          </span>
+          <span class="toolbarButton-newUI btn-commentsToolbarToggle for-mobile" data-action="commentsToolbarToggle" style="cursor: auto;">
+            <button id="commentsToolbarToggleMobile" class="toolbarButton" title="Comments" tabindex="38" data-l10n-id="comments" event-sign="t2Signature" style="cursor: auto;">
+              <i class="icon-comment2" style="cursor: auto;"></i>
+              <number style="cursor: auto;">0</number>
+              <span data-l10n-id="comments_label" style="cursor: auto;">Comments</span>
+            </button>
+          </span>
+          <div class="horizontalToolbarSeparator" style="cursor: auto;"></div>
+          <button id="documentProperties" class="secondaryToolbarButton documentProperties" title="Document Properties…" tabindex="61" data-l10n-id="document_properties" style="cursor: auto;">
+            <i class="icon-info" style="cursor: auto;"></i>
+            <span data-l10n-id="document_properties_label" style="cursor: auto;">Document Properties</span>
+          </button>
+          
+            <button id="go-premium" class="secondaryToolbarButton go-premium" title="Go Premium" tabindex="37" data-l10n-id="go_premium" style="cursor: auto;">
+              <i class="icon-premium" style="cursor: auto;"></i>
+              <span data-l10n-id="share_label" style="cursor: auto;">Go Premium</span>
+            </button>
+          
+        </div>
+      </div>
+      <!--<div id="signatureToolbar" class="signatureToolbar secondaryToolbar hidden doorHangerRight">-->
+      <!--</div>-->
+      <div id="pdfjsSignature" style="cursor: auto;">
+        
+      </div>
+      <!-- secondaryToolbar -->
+      <!-- begin comment container -->
+      <button class="hide " id="comments-point" style="cursor: auto;" top="420" left="973" page-id="1"> add new point</button>
+  
+  <div id="commentsToolbar" class="commentsToolbar doorHangerRight hidden" style="cursor: auto;">
+    <div id="commentsToolbarButtonContainer" style="cursor: auto;">
+      <div class="addNewComments" style="cursor: auto;">
+        <a href="https://www.luminpdf.com/viewer/Db769bdeEjMPCXJP3" class="" style="cursor: auto;">
+          <i class="fa fa-plus" style="cursor: auto;"></i>
+          <span style="cursor: auto;">Add a new Comment</span>
+        </a>
+      </div>
+      <div class="commentsAll" style="cursor: auto;">
+        
+      </div>
+    </div>
+  </div>
+      <!-- end comment container-->
+      <!--Comment Inside-->
+      <div class="comment-inside comments-items hide" id="comment-sample" style="cursor: auto;">
+    <div class="media-left" style="opacity: 0.8; cursor: auto;">
+      <span style="cursor: auto;">
+      <i class="cmt-order" style="cursor: auto;">4</i>
+      </span>
+    </div>
+    <div class="media" style="cursor: auto;">
+      <div class="pull-right btn-quit" style="font-size: 1.5em; cursor: auto;"><i class="fa fa-trash icon-fullscreen" quitid="delete" style="cursor: auto;"></i></div>
+      <div class="media-body" style="cursor: auto;">
+        <h4 class="media-heading" style="cursor: auto;"></h4>
+      </div>
+      <div class="formReplyCommments" style="cursor: auto;">
+        <input type="text" class="txtReplyComments" placeholder="Write a comment..." style="cursor: auto;">
+        <a href="https://www.luminpdf.com/viewer/Db769bdeEjMPCXJP3#" class="btnReplyComments" style="cursor: auto;"><i class="icon-enter" style="cursor: auto;"></i></a>
+      </div>
+    </div>
+  </div>
+      <!-- secondaryToolbar -->
+      <div class="toolbar" id="topNavBar" style="display: block; cursor: auto;">
+        <div id="toolbarContainer" class="" style="cursor: auto;">
+          <div id="toolbarViewer" style="cursor: auto;">
+            <div id="toolbarViewerLeft" style="cursor: auto;">
+              <a href="https://www.luminpdf.com/picker" class="luminLogo" style="cursor: auto;">
+                <i class="icon-lighting" style="cursor: auto;"></i>
+                <span class="logo-text" style="cursor: auto;">lumin</span>
+                
+              </a>
+              <span class="toolbarButton-newUI btn-sidebar" data-action="sidebarToggle" style="cursor: auto;">
+                <button id="sidebarToggle" class="toolbarButton" title="Toggle Sidebar" tabindex="11" data-l10n-id="toggle_sidebar" style="cursor: auto;">
+                <i class="icon-sidebar" style="cursor: auto;"></i>
+                <span data-l10n-id="toggle_sidebar_label" style="cursor: auto;">Toggle Sidebar</span>
+                </button>
+                <!-- <span class="icon_caption">Sidebar</span> -->
+              </span>
+              <span class="toolbarButton-newUI btn-find" data-icon-type="findbar" data-action="viewFind" style="cursor: auto;">
+                <button id="viewFind" class="toolbarButton group hiddenSmallView" title="Find in Document" tabindex="12" data-l10n-id="findbar" style="cursor: auto;">
+                <i class="icon-search" style="cursor: auto;"></i>
+                <span data-l10n-id="findbar_label" style="cursor: auto;">Find</span>
+                </button>
+                <!-- <span class="icon_caption">Find</span> -->
+              </span>
+              <span class="toolbarButton-newUI btn-EditMode" style="cursor: auto;">
+              <button id="secondaryPageEditMode" class="secondaryToolbarButton pageEditMode pageEditModeInside" title="Switch to Page Edit Mode" style="cursor: auto;">
+              <i class="fa fa-pencil-square-o" style="cursor: auto;"></i>
+              <span data-l10n-id="page_edit_mode_label" id="pageEditMode" style="cursor: auto;">Page Edit Mode</span>
+              </button>
+              </span>
+            </div>
+            <div id="toolbarViewerRight" style="cursor: auto;">
+              <span class="toolbarButton-newUI btn-cancel" style="cursor: auto;">
+              <button id="cancelEditMode" class="secondaryToolbarButton CancelEditMode" title="" style="cursor: auto;">
+              <i class="icon-popup_close" style="cursor: auto;"></i>
+              <span data-l10n-id="cancel_edit_mode_label" id="Cancel" style="cursor: auto;">Cancel</span>
+              </button>
+              </span>
+              <span class="toolbarButton-newUI btn-done" style="cursor: auto;">
+              <button id="finishEditMode" class="secondaryToolbarButton DoneEditMode" title="" style="cursor: auto;">
+              <span data-l10n-id="cancel_edit_mode_label" id="Done" style="cursor: auto;">Done</span>
+              </button>
+              </span>
+              <div class="toolbarButton-newUI btn-rotate" data-icon-type="rotaterite" style="cursor: auto;">
+                <button id="pageRotateCw" class="toolbarButton rotateCw" title="Rotate Clockwise (All Pages - Temporary)" tabindex="59" data-l10n-id="page_rotate_cw" style="cursor: auto;">
+                  <i class="icon-rotate" style="cursor: auto;"></i>
+                  <span data-l10n-id="page_rotate_cw_label" style="cursor: auto;">Rotate Clockwise</span>
+                </button>
+              </div>
+              <span class="toolbarButton-newUI btn-signature for-desktop" id="signatureBtnWrapper" event-sign="t2Signature" data-action="signatureToolbarToggle" style="cursor: auto;">
+                <button id="signature" event-sign="t2Signature" class="toolbarButton print hiddenMediumView" title="Signature" tabindex="28" data-l10n-id="signature" style="cursor: auto;">
+                <i class="icon-sign" style="cursor: auto;"></i>
+                <span data-l10n-id="signature_label" style="cursor: auto;">Signature</span>
+                </button>
+              </span>
+              <span class="toolbarButton-newUI btn-commentsToolbarToggle for-desktop" data-action="commentsToolbarToggle" style="cursor: auto;">
+                <button id="commentsToolbarToggle" class="toolbarButton" title="Comments" tabindex="38" data-l10n-id="comments" style="cursor: auto;">
+                  <i class="icon-comment2" style="cursor: auto;"></i>
+                  <number style="cursor: auto;">0</number>
+                  <span data-l10n-id="comments_label" style="cursor: auto;">Comments</span>
+                </button>
+              </span>
+              <div class="toolbarButton-newUI btn-download" id="downloadBtnWrapper" style="cursor: auto;">
+                <button id="download" class="toolbarButton download" title="Download" tabindex="34" data-l10n-id="download" style="cursor: auto;">
+                  <i class="icon-download2" style="cursor: auto;"></i>
+                  <span data-l10n-id="download_label" style="cursor: auto;">Download</span>
+                </button>
+              </div>
+              <div class="toolbarButton-newUI btn-print" id="printBtnWrapper" style="cursor: auto;">
+                <button id="print" class="toolbarButton print" title="Print" tabindex="33" data-l10n-id="print" style="cursor: auto;">
+                  <i class="icon-print2" style="cursor: auto;"></i>
+                  <span data-l10n-id="print_label" style="cursor: auto;">Print</span>
+                </button>
+              </div>
+              <span class="toolbarButton-newUI btn-print" data-action="print" style="display: none; cursor: auto;">
+              <button id="originalPrint" class="toolbarButton print hiddenMediumView" title="Print" tabindex="33" data-l10n-id="print" style="cursor: auto;">
+              <span data-l10n-id="print_label" style="cursor: auto;">Print</span>
+              </button>
+              </span>
+              <button style="display: none; cursor: auto;" id="openFile" class="toolbarButton openFile hiddenLargeView" title="Open File" tabindex="32" data-l10n-id="open_file">
+                <span data-l10n-id="open_file_label" style="cursor: auto;">Open</span>
+              </button>
+              <a href="https://www.luminpdf.com/viewer/Db769bdeEjMPCXJP3#page=1&amp;zoom=100,-444,774" id="viewBookmark" style="display: none; cursor: auto;" class="toolbarButton bookmark hiddenSmallView" title="Current view (copy or open in new window)" tabindex="35" data-l10n-id="bookmark">
+                <span data-l10n-id="bookmark_label" style="cursor: auto;">Current View</span>
+              </a>
+              <span class="toolbarButton-newUI btn-secondaryToolbarToggle" data-action="secondaryToolbarToggle" style="cursor: auto;">
+              <button id="secondaryToolbarToggle" class="toolbarButton" title="Tools" tabindex="36" data-l10n-id="tools" style="cursor: auto;">
+              <i class="icon-more2" style="cursor: auto;"></i><span data-l10n-id="tools_label" style="cursor: auto;">Tools</span>
+              </button>
+              </span>
+            </div>
+            <div class="outerCenter dsv-outerCenter" style="cursor: auto;">
+              <div class="innerCenter" id="toolbarViewerMiddle" style="cursor: auto;">
+                <div class="toolbarButton-newUI pre" data-icon-type="pagination" style="cursor: auto;">
+                  <button class="pageUp" title="Previous Page" id="previous" tabindex="13" data-l10n-id="previous" disabled="" style="cursor: auto;">
+                    <i class="icon-paging_up" style="cursor: auto;"></i>
+                    <span style="display: none; cursor: auto;" data-l10n-id="previous_label">Previous</span>
+                  </button>
+                </div>
+                <div class="toolbarButton-newUI pagina" data-icon-type="pagination" style="cursor: auto;">
+                  <input type="number" id="pageNumber" class="toolbarField pageNumber" value="00" size="4" min="1" tabindex="15" max="1" style="cursor: auto;">
+                  <span id="numPages" style="cursor: auto;">/   01</span>
+                </div>
+                <div class="toolbarButton-newUI next" data-icon-type="pagination" style="cursor: auto;">
+                  <button class="pageDown" title="Next Page" id="next" tabindex="14" data-l10n-id="next" disabled="" style="cursor: auto;">
+                    <i class="icon-paging_down" style="cursor: auto;"></i>
+                    <span style="display: none; cursor: auto;" data-l10n-id="next_label">Next</span>
+                  </button>
+                </div>
+                <div class="toolbarButton-newUI zoomdoc" data-icon-type="zoom" style="cursor: auto;">
+                  <button id="zoomOut-bar" class="toolbarButton zoomOut" title="Zoom Out" tabindex="21" data-l10n-id="zoom_out" style="cursor: auto;">
+                    <i class="icon-zoomout" style="cursor: auto;"></i>
+                    <span data-l10n-id="zoom_out_label" style="cursor: auto;">Zoom Out</span>
+                  </button>
+                  <div class="splitToolbarButtonSeparator" style="cursor: auto;"></div>
+                  <span id="scaleSelectContainer" class="dropdownToolbarButton" style="display: inherit; cursor: auto;">
+                    <select id="scaleSelect" title="Zoom" tabindex="23" data-l10n-id="zoom" style="cursor: auto;">
+                      <option id="pageAutoOption" title="" value="auto" selected="selected" data-l10n-id="page_scale_auto" style="cursor: auto;">Auto
+                      </option>
+                      <option id="pageActualOption" title="" value="page-actual" data-l10n-id="page_scale_actual" style="cursor: auto;">
+                        Actual
+                      </option>
+                      <option id="pageFitOption" title="" value="page-fit" data-l10n-id="page_scale_fit" style="cursor: auto;">Fit
+                      </option>
+                      <option id="pageWidthOption" title="" value="page-width" data-l10n-id="page_scale_width" style="cursor: auto;">Full
+                      </option>
+                      <option id="customScaleOption" title="" value="custom" style="cursor: auto;"></option>
+                      <option title="" value="0.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 50 }" style="cursor: auto;">50%
+                      </option>
+                      <option title="" value="0.75" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 75 }" style="cursor: auto;">75%
+                      </option>
+                      <option title="" value="1" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 100 }" style="cursor: auto;">
+                        100%
+                      </option>
+                      <option title="" value="1.25" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 125 }" style="cursor: auto;">
+                        125%
+                      </option>
+                      <option title="" value="1.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 150 }" style="cursor: auto;">
+                        150%
+                      </option>
+                      <option title="" value="2" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 200 }" style="cursor: auto;">
+                        200%
+                      </option>
+                      <option title="" value="3" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 300 }" style="cursor: auto;">
+                        300%
+                      </option>
+                      <option title="" value="4" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 400 }" style="cursor: auto;">
+                        400%
+                      </option>
+                    </select>
+                  </span>
+                  <div class="splitToolbarButtonSeparator" style="cursor: auto;"></div>
+                  <button id="zoomIn-bar" class="toolbarButton zoomIn" title="Zoom In" tabindex="22" data-l10n-id="zoom_in" style="cursor: auto;">
+                    <i class="icon-zoomin" style="cursor: auto;"></i>
+                    <span data-l10n-id="zoom_in_label" style="cursor: auto;">Zoom In</span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="notification-wrapper" style="cursor: auto;">
+            <div id="notification-panel-success" class="doc-notification-success" style="cursor: auto; display: none;">
+              <span style="cursor: auto;"><i class="glyphicon glyphicon-ok-circle" style="cursor: auto;"></i>Document Saved!</span>
+            </div>
+            <div id="notification-error-annotation" class="doc-notification-fail" style="display: none; width: auto !important; cursor: auto;">
+              <span style="cursor: auto;"><i class="glyphicon glyphicon-alert" style="cursor: auto;"></i> <b id="txt-tryAgainTitle" style="cursor: auto;">Document Saved Error!</b></span>
+            </div>
+            <div id="notification-panel-fail" class="doc-notification-fail" style="display: none; cursor: auto;">
+              <span style="cursor: auto;"><i class="glyphicon glyphicon-alert" style="cursor: auto;"></i> <b id="txt-tryAgainTitle" style="cursor: auto;">Connection Error!</b></span>
+            </div>
+            <div id="notification-add-comments" class="doc-notification-add-comments" style="display: none; cursor: auto;">
+              <span style="cursor: auto;"><i class="glyphicon glyphicon-alert" style="cursor: auto;"></i> <b id="txt-tryAgainTitle" style="cursor: auto;">Click anywhere on the document to add a new comment</b></span>
+            </div>
+            <div id="notification-add-signature-request" class="doc-notification-add-signature-request" style="display: none; cursor: auto;">
+              <span style="cursor: auto;"><i class="glyphicon glyphicon-alert" style="cursor: auto;"></i> <b id="txt-tryAgainTitle" style="cursor: auto;">Click anywhere on the document to add a signature field</b></span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="toolbar" style="display: block; cursor: auto;">
+        <div id="loadingBar" class="hidden" style="width: calc(100% - 17px); cursor: auto;">
+          <div class="progress" style="height: 100%; width: 100%; cursor: auto;">
+            <div class="glimmer" style="cursor: auto;">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="annotationToolbarContainer" class="annotationToolbarCss" style="transform: rotate(0deg); zoom: 1; top: 72px; opacity: 0.8; left: 547.5px; cursor: auto;">
+        <div class="editor-wrapper" style="cursor: auto;">
+          <div class="annotation-item" style="cursor: auto;">
+            <div class="annotation-item" style="cursor: auto;">
+    <div id="editor-color" class="annotationToolbar" style="cursor: auto;">
+      <div class="t2-picke-color" style="background-color: rgb(0, 0, 0); cursor: auto;"></div>
+      
+    </div>
+  </div>
+          </div>
+          <div class="annotation-item" style="cursor: auto;">
+            <button id="highlightBtn" class="annotationToolbar" data-type="highlight" style="transform: rotate(0deg); cursor: auto;">
+              <i class="icon-highlight_tool" style="border: 0px solid rgb(0, 0, 0); cursor: auto;"></i>
+            </button>
+          </div>
+          <div class="annotation-item" style="cursor: auto;">
+            <button id="underline" class="annotationToolbar" data-type="underline" style="transform: rotate(0deg); cursor: auto;">
+              <i class="icon-underline_tool" style="border: 0px solid rgb(0, 0, 0); cursor: auto;"></i>
+            </button>
+          </div>
+          <div class="annotation-item" style="cursor: auto;">
+            <button id="strikethrough" class="annotationToolbar" data-type="strikethrough" style="transform: rotate(0deg); cursor: auto;">
+              <i class="icon-strike_tool" style="border: 0px solid rgb(0, 0, 0); cursor: auto;"></i>
+            </button>
+          </div>
+          <div class="annotation-item" style="cursor: auto;">
+            <button id="freeline" class="annotationToolbar" data-type="freeline" style="transform: rotate(0deg); cursor: auto;">
+              <i class="icon-zigzag_tool" style="border: 0px solid rgb(0, 0, 0); cursor: auto;"></i>
+            </button>
+          </div>
+          <div class="annotation-item" style="cursor: auto;">
+            <button id="textbox" class="annotationToolbar" data-type="textbox" style="transform: rotate(0deg); cursor: auto;">
+              <i class="fa fa-font" style="border: 0px solid rgb(0, 0, 0); cursor: auto;"></i>
+            </button>
+          </div>
+          <div class="annotation-item" style="cursor: auto;">
+            <button id="whiteout" class="annotationToolbar" data-type="whiteout" style="transform: rotate(0deg); cursor: auto;">
+              <i class="fa fa-eraser" style="border: 0px solid rgb(0, 0, 0); cursor: auto;"></i>
+            </button>
+          </div>
+        </div>
+        <iframe id="printingIframe" style="display: none; cursor: auto;" src="./oblig_forside_2017_files/saved_resource.html"></iframe>
+      </div>
+      <div id="pdf_page" class="" style="left: 1332.5px; cursor: auto;">
+        <div id="pageOutSide" style="cursor: auto;">
+          <div class="zoom" data-icon-type="zoom" style="cursor: auto;">
+            <button id="full-screen" class="toolbarButton zoom" title="Zoom" tabindex="22" data-l10n-id="zoom" style="cursor: auto;">
+              <i class="icon-fitcopy" style="cursor: auto;"></i>
+              <span data-l10n-id="zoom_in_label" style="cursor: auto;">Full Screen</span>
+            </button>
+            <button id="zoomIn-float" class="toolbarButton zoomIn" title="Zoom In" tabindex="22" data-l10n-id="zoom_in" style="cursor: auto;">
+              <i class="icon-zoomin" style="cursor: auto;"></i>
+              <span data-l10n-id="zoom_in_label" style="cursor: auto;">Zoom In</span>
+            </button>
+            <button id="zoomOut-float" class="toolbarButton zoomOut" title="Zoom Out" tabindex="21" data-l10n-id="zoom_out" style="cursor: auto;">
+              <i class="icon-zoomout" style="cursor: auto;"></i>
+              <span data-l10n-id="zoom_out_label" style="cursor: auto;">Zoom Out</span>
+            </button>
+          </div>
+        </div>
+        <div id="pageInSide" style="cursor: auto;"></div>
+      </div>
+      <menu type="context" id="viewerContextMenu" style="cursor: auto;">
+        <menuitem id="contextFirstPage" label="First Page" data-l10n-id="first_page" style="cursor: auto;"></menuitem>
+        <menuitem id="contextLastPage" label="Last Page" data-l10n-id="last_page" style="cursor: auto;"></menuitem>
+        <menuitem id="contextPageRotateCw" label="Rotate Clockwise" data-l10n-id="page_rotate_cw" style="cursor: auto;"></menuitem>
+        <menuitem id="contextPageRotateCcw" label="Rotate Counter-Clockwise" data-l10n-id="page_rotate_ccw" style="cursor: auto;"></menuitem>
+      </menu>
+      <div id="viewerContainer" tabindex="0" style="cursor: auto;">
+        <div id="viewer" class="pdfViewer" style="cursor: auto;"><div id="pageContainer1" class="page" style="width: 720px; height: 960px; cursor: auto;" data-loaded="true"><div class="canvasWrapper" data-pageid="1" style="width: 720px; height: 960px; position: relative; cursor: auto;"><canvas id="page1" width="720" height="960" style="width: 720px; height: 960px; cursor: auto;"></canvas><div class="hideAnotation" style="position: absolute; top: 0px; z-index: 2; right: 0px; cursor: auto;"><div id="annotationToolbarRight" class="annotationToolbarCss editpdf" style="cursor: auto;"><div class="editor-wrapper" style="cursor: auto;"><div class="annotation-item" style="border-bottom: 1px solid rgb(255, 255, 255); cursor: auto;"><button id="page.delete" class="annotationToolbar" data-type="page.delete" style="cursor: auto;"><i class="icon-popup_close" style="cursor: auto;"></i></button></div><div class="annotation-item" style="cursor: auto;"><button id="page.rotate.cw" class="annotationToolbar rotateCwt2" data-type="page.rotate.cw" style="transform: rotate(0deg); cursor: auto;"><i class="icon-rotate" style="cursor: auto;"></i></button></div></div></div></div></div><div class="signLayer" pageid="1" id="signLayer1" style="width: 720px; height: 960px; z-index: 0; cursor: auto;"><div id="freelineWrapperPage1" pageid="1" class="freelineWrapperPage" style="height: 960px; width: 720px; position: relative; top: 0px; left: 0px; z-index: 0; cursor: auto;"><svg width="720px" height="960px" id="freelinePage1" pageid="1" class="svgEle" style="z-index: 0; cursor: auto;"></svg></div><div class="textbox-wrapper lumin-annotation" style="position: absolute; left: 129.5px; top: 271px; z-index: 1002; border: 2px solid transparent; cursor: auto; opacity: 1; width: 100px;" data-status="unselected" data-annotation-type="textbox" id="1494348717324n6f" tabindex="8QssWfgzjMvTzuiWp"><div class="textbox-content text-left" contenteditable="true" style="font-size: 20px; padding-left: 5px; padding-right: 5px; outline: transparent solid 0px; color: rgb(0, 0, 0); z-index: 1003; min-width: 10px; width: 100px; cursor: auto;">15040</div><div class="textbox-resizer" style="width: 8px; height: 8px; background-color: rgb(42, 54, 77); position: absolute; right: -5px; top: 6px; cursor: auto; z-index: 1002; display: none;"></div><div class="textbox-resizer-hovered" style="width: 16px; height: 16px; background-color: rgb(42, 54, 77); position: absolute; right: -9px; top: 2px; cursor: auto; z-index: 1001;"></div><div class="textbox-cover" style="position: absolute; top: 0px; left: 0px; width: 100px; height: 20px; z-index: 1004; background-color: transparent; cursor: auto; display: block;"></div></div><div class="textbox-wrapper lumin-annotation" style="position: absolute; left: 181.5px; top: 338px; z-index: 1002; border: 2px solid transparent; cursor: pointer; opacity: 1; width: 206px;" data-status="unselected" data-annotation-type="textbox" id="1494348735218r0g" tabindex="L6kCQH9NR6z26xyre"><div class="textbox-content text-left" contenteditable="true" style="font-size: 20px; padding-left: 5px; padding-right: 5px; outline: transparent solid 0px; color: rgb(0, 0, 0); z-index: 1003; min-width: 10px; width: 206px; cursor: auto;">Prosjektoppgvave</div><div class="textbox-resizer" style="width: 8px; height: 8px; background-color: rgb(42, 54, 77); position: absolute; right: -5px; top: 6px; cursor: auto; z-index: 1002; display: none;"></div><div class="textbox-resizer-hovered" style="width: 16px; height: 16px; background-color: rgb(42, 54, 77); position: absolute; right: -9px; top: 2px; cursor: auto; z-index: 1001;"></div><div class="textbox-cover" style="position: absolute; top: 0px; left: 0px; width: 100px; height: 20px; z-index: 1004; background-color: transparent; cursor: auto; display: block;"></div></div></div><div class="textLayer" pageid="1" id="textLayer1" style="width: 720px; height: 960px; z-index: auto; cursor: auto;"><div data-canvas-width="123.92256" style="left: 40.544px; top: 123.842px; font-size: 48.032px; font-family: sans-serif; transform: scaleX(1.10522); padding-right: 15.9521px; padding-bottom: 60px; cursor: auto;">Oblig</div><div style="left: 164.413px; top: 123.842px; font-size: 48.032px; font-family: sans-serif; padding-right: 80px; padding-bottom: 60px; transform: scaleX(1); cursor: auto;">-</div><div data-canvas-width="499.43673599999994" style="left: 180.413px; top: 123.842px; font-size: 48.032px; font-family: sans-serif; transform: scaleX(1.06283); padding-right: 40.145px; padding-bottom: 37.6406px; cursor: auto;">innlevering i FYS2130</div><div data-canvas-width="262.848" style="left: 228.613px; top: 181.472px; font-size: 48px; font-family: sans-serif; transform: scaleX(1.059); padding-right: 228.543px; padding-bottom: 60px; cursor: auto;">Våren 2017</div><div data-canvas-width="52.19136" style="left: 71.008px; top: 272.824px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.06783); padding-right: 261.034px; padding-bottom: 46.1719px; cursor: auto;">Navn:</div><div data-canvas-width="48.166560000000004" style="left: 71.008px; top: 338.998px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.10277); padding-right: 4.4635px; padding-bottom: 46.1563px; cursor: auto;">Oblig</div><div style="left: 123.648px; top: 338.998px; font-size: 18.72px; font-family: sans-serif; padding-right: 0.953125px; padding-bottom: 46.1563px; transform: scaleX(1); cursor: auto;">n</div><div style="left: 135.013px; top: 338.998px; font-size: 18.72px; font-family: sans-serif; padding-right: 1.60938px; padding-bottom: 46.1563px; transform: scaleX(1); cursor: auto;">r</div><div style="left: 142.853px; top: 338.998px; font-size: 18.72px; font-family: sans-serif; padding-right: 26.0156px; padding-bottom: 46.1563px; transform: scaleX(1); cursor: auto;">:</div><div data-canvas-width="104.64479999999998" style="left: 71.008px; top: 405.144px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.09382); padding-right: 523.237px; padding-bottom: 46.1719px; cursor: auto;">Dato levert:</div><div data-canvas-width="288.60624000000007" style="left: 71.008px; top: 471.318px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.05131); padding-right: 60.8816px; padding-bottom: 46.1406px; cursor: auto;">Ønsker tilbakemelding:            JA</div><div data-canvas-width="32.5728" style="left: 420.507px; top: 471.318px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.04436); padding-right: 46.0066px; padding-bottom: 46.1406px; cursor: auto;">NEI</div><div data-canvas-width="39.38688" style="left: 71.008px; top: 537.464px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.05154); padding-right: 122.397px; padding-bottom: 60px; cursor: auto;">Ved </div><div data-canvas-width="122.33519999999999" style="left: 110.368px; top: 537.464px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.10962); padding-right: 0.085083px; padding-bottom: 60px; cursor: auto;">nyinnlevering</div><div data-canvas-width="121.60511999999991" style="left: 232.8px; top: 537.464px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.08298); padding-right: 0.165771px; padding-bottom: 60px; cursor: auto;">: Hvem rettet/</div><div data-canvas-width="70.25616" style="left: 354.587px; top: 537.464px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.12579); padding-right: 5.10321px; padding-bottom: 60px; cursor: auto;">vuderte</div><div data-canvas-width="177.03504" style="left: 429.947px; top: 537.464px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.11254); padding-right: 113.011px; padding-bottom: 60px; cursor: auto;">forrige innlevering?</div><div data-canvas-width="141.03647999999998" style="left: 70.4px; top: 628.211px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.08496); padding-right: 0.0959473px; padding-bottom: 40.4844px; cursor: auto;">Besvarelsen er </div><div data-canvas-width="59.21135999999999" style="left: 211.547px; top: 628.211px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.13867); padding-right: 4.81848px; padding-bottom: 40.4844px; cursor: auto;">vudert</div><div data-canvas-width="43.91712" style="left: 275.587px; top: 628.211px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.08319); padding-right: 38.9552px; padding-bottom: 60px; cursor: auto;">som:</div><div data-canvas-width="291.56399999999996" style="left: 358.467px; top: 628.211px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.0311); padding-right: 69.9705px; padding-bottom: 40.4844px; cursor: auto;">GODKJENT      IKKE GODKJENT</div><div data-canvas-width="60.22224" style="left: 70.4px; top: 688.691px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.09265); padding-right: 0.0959473px; padding-bottom: 40.3438px; cursor: auto;">Rettet/</div><div data-canvas-width="59.21135999999999" style="left: 130.72px; top: 688.691px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.13867); padding-right: 5.1153px; padding-bottom: 40.3438px; cursor: auto;">vudert</div><div data-canvas-width="26.657279999999993" style="left: 195.067px; top: 688.691px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.06805); padding-right: 53.8478px; padding-bottom: 40.3438px; cursor: auto;">av:</div><div data-canvas-width="48.353759999999994" style="left: 454.493px; top: 688.691px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.08127); padding-right: 217.146px; padding-bottom: 60px; cursor: auto;">Dato:</div><div data-canvas-width="231.17328" style="left: 70.4px; top: 749.038px; font-size: 18.72px; font-family: sans-serif; transform: scaleX(1.10062); padding-right: 152.913px; padding-bottom: 60px; cursor: auto;">Merknader/kommentarer:</div><div data-canvas-width="149.49295999999998" style="left: 499.107px; top: 457.571px; font-size: 13.9982px; font-family: sans-serif; transform: scaleX(1.02937); padding-right: 71.4067px; padding-bottom: 12px; cursor: auto;">Velger du JA forventer </div><div data-canvas-width="131.84384" style="left: 499.107px; top: 473.571px; font-size: 13.9982px; font-family: sans-serif; transform: scaleX(1.02205); padding-right: 89.0625px; padding-bottom: 43.8906px; cursor: auto;">vi at du faktisk leser </div><div data-canvas-width="118.98880000000003" style="left: 499.107px; top: 489.571px; font-size: 13.9982px; font-family: sans-serif; transform: scaleX(1.03469); padding-right: 101.917px; padding-bottom: 27.8906px; cursor: auto;">tilbakemeldingene</div></div></div></div>
+      </div>
+      <div id="errorWrapper" hidden="true" style="cursor: auto;">
+        <div id="errorMessageLeft" style="cursor: auto;">
+          <span id="errorMessage" style="cursor: auto;"></span>
+          <button id="errorShowMore" data-l10n-id="error_more_info" style="cursor: auto;">
+            More Information
+          </button>
+          <button id="errorShowLess" data-l10n-id="error_less_info" hidden="true" style="cursor: auto;">
+            Less Information
+          </button>
+        </div>
+        <div id="errorMessageRight" style="cursor: auto;">
+          <button id="errorClose" data-l10n-id="error_close" style="cursor: auto;">
+            Close
+          </button>
+        </div>
+        <div class="clearBoth" style="cursor: auto;"></div>
+        <textarea id="errorMoreInfo" hidden="true" readonly="readonly" style="cursor: auto;"></textarea>
+      </div>
+      <div id="editAnnotationContainer" class="editAnnotationContainer noselect" style="cursor: auto; display: none; top: 365px; left: 773px;">
+        <div class="user-initials noselect" style="cursor: auto; background-color: rgb(12, 176, 200);">
+          <i style="cursor: auto;">AE</i>
+        </div>
+        <div class="optionsWrapper noselect" style="cursor: auto;">
+          <div class="move" style="cursor: auto; display: inline-block;">
+            <i class="icon-fullscreen" id="move-annotation" style="cursor: auto;"></i>
+          </div>
+          <input type="hide" class="color-chooser" id="color-chooser" style="display: none !important; cursor: auto;">
+          <div class="annotation-pickcolor" style="cursor: auto;">
+            <div class="annotation-item" style="cursor: auto;">
+    <div id="editor-color" class="annotationToolbar" style="cursor: auto;">
+      <div class="t2-picke-color" style="background-color: rgb(0, 0, 0); cursor: auto;"></div>
+      
+    </div>
+  </div>
+          </div>
+          <div id="text-style" class="popover-font-style" style="width: 80px; height: 40px; cursor: auto; display: inline-block;">
+            <ul class="font-style-palette" style="cursor: auto;">
+              <li data-font-style="font-weight" data-value="bold" style="cursor: auto;">
+                <i class="fa fa-bold" style="cursor: auto;"></i>
+              </li>
+              <li data-font-style="font-style" data-value="italic" style="cursor: auto;">
+                <i class="fa fa-italic" style="cursor: auto;"></i>
+              </li>
+              <li data-font-style="text-decoration" data-value="underline" style="cursor: auto;">
+                <i class="fa fa-underline" style="cursor: auto;"></i>
+              </li>
+            </ul>
+          </div>
+          <label id="text-size" style="top: 1px; cursor: auto; display: inline-block;" for="">
+            <i class="icon-paging_down" style="cursor: auto;"></i>
+            <select id="popover-font-size" style="cursor: auto;">
+              
+                <option value="8" style="cursor: auto;">8</option>
+              
+                <option value="10" style="cursor: auto;">10</option>
+              
+                <option value="12" style="cursor: auto;">12</option>
+              
+                <option value="14" style="cursor: auto;">14</option>
+              
+                <option value="16" style="cursor: auto;">16</option>
+              
+                <option value="18" style="cursor: auto;">18</option>
+              
+                <option value="20" style="cursor: auto;">20</option>
+              
+                <option value="22" style="cursor: auto;">22</option>
+              
+                <option value="24" style="cursor: auto;">24</option>
+              
+                <option value="26" style="cursor: auto;">26</option>
+              
+                <option value="28" style="cursor: auto;">28</option>
+              
+                <option value="30" style="cursor: auto;">30</option>
+              
+                <option value="32" style="cursor: auto;">32</option>
+              
+                <option value="34" style="cursor: auto;">34</option>
+              
+                <option value="36" style="cursor: auto;">36</option>
+              
+                <option value="38" style="cursor: auto;">38</option>
+              
+                <option value="40" style="cursor: auto;">40</option>
+              
+                <option value="42" style="cursor: auto;">42</option>
+              
+                <option value="44" style="cursor: auto;">44</option>
+              
+                <option value="46" style="cursor: auto;">46</option>
+              
+                <option value="48" style="cursor: auto;">48</option>
+              
+                <option value="50" style="cursor: auto;">50</option>
+              
+                <option value="52" style="cursor: auto;">52</option>
+              
+                <option value="54" style="cursor: auto;">54</option>
+              
+                <option value="56" style="cursor: auto;">56</option>
+              
+                <option value="58" style="cursor: auto;">58</option>
+              
+                <option value="60" style="cursor: auto;">60</option>
+              
+                <option value="62" style="cursor: auto;">62</option>
+              
+                <option value="64" style="cursor: auto;">64</option>
+              
+                <option value="66" style="cursor: auto;">66</option>
+              
+                <option value="68" style="cursor: auto;">68</option>
+              
+                <option value="70" style="cursor: auto;">70</option>
+              
+                <option value="72" style="cursor: auto;">72</option>
+              
+                <option value="74" style="cursor: auto;">74</option>
+              
+                <option value="76" style="cursor: auto;">76</option>
+              
+                <option value="78" style="cursor: auto;">78</option>
+              
+                <option value="80" style="cursor: auto;">80</option>
+              
+                <option value="82" style="cursor: auto;">82</option>
+              
+                <option value="84" style="cursor: auto;">84</option>
+              
+                <option value="86" style="cursor: auto;">86</option>
+              
+                <option value="88" style="cursor: auto;">88</option>
+              
+                <option value="90" style="cursor: auto;">90</option>
+              
+                <option value="92" style="cursor: auto;">92</option>
+              
+                <option value="94" style="cursor: auto;">94</option>
+              
+                <option value="96" style="cursor: auto;">96</option>
+              
+                <option value="98" style="cursor: auto;">98</option>
+              
+            </select>
+          </label>
+          <label id="line-size" style="top: 1px; cursor: auto; display: none;" for="">
+            <i class="icon-paging_down" style="cursor: auto;"></i>
+            <select id="popover-line-width" style="cursor: auto;">
+              
+                <option value="2" style="cursor: auto;">2</option>
+              
+                <option value="4" style="cursor: auto;">4</option>
+              
+                <option value="6" style="cursor: auto;">6</option>
+              
+                <option value="8" style="cursor: auto;">8</option>
+              
+                <option value="10" style="cursor: auto;">10</option>
+              
+                <option value="12" style="cursor: auto;">12</option>
+              
+            </select>
+          </label>
+          <div class="delete" style="border-left: 1px solid rgb(50, 64, 80); cursor: auto;">
+            <i style="margin: 5px 18px; cursor: auto;" class="fa fa-trash icon-fullscreen" id="delete"></i>
+          </div>
+        </div>
+      </div>
+      <div id="signature-header-popup" class="header-popup" style="cursor: auto;">
+        <number stroke="black" style="cursor: auto;">1</number>
+        <div class="name" style="cursor: auto;">
+          <span class="ownerName" style="cursor: auto;">Signature Owner Name</span>
+          <span class="email" style="cursor: auto;">(me)</span>
+        </div>
+        <div class="close-signature" style="cursor: auto;">
+          <i class="fa fa-trash icon-fullscreen" id="delete" style="cursor: auto;"></i>
+        </div>
+      </div>
+      <div id="annotation-select-cover" style="display: none; cursor: auto;">
+      </div>
+    </div>
+    <!-- mainContainer -->
+    <div id="overlayContainer" class="hidden" style="cursor: auto;">
+      <div id="passwordOverlay" class="password_open hidden" style="cursor: auto;">
+        <div class="dialog" style="cursor: auto;">
+          <div class="row" style="cursor: auto;">
+            <p id="passwordText" data-l10n-id="password_label" style="cursor: auto;">Enter the password to open this PDF file:</p>
+          </div>
+          <div class="row" style="cursor: auto;">
+            <input type="password" id="password" class="toolbarField" style="cursor: auto;">
+            <div class="buttonRow" style="cursor: auto;">
+              <button id="passwordCancel" class="overlayButton" style="cursor: auto;"><span data-l10n-id="password_cancel" style="cursor: auto;">Cancel</span></button>
+              <button id="passwordSubmit" class="overlayButton" style="cursor: auto;"><span data-l10n-id="password_ok" style="cursor: auto;">OK</span></button>
+            </div>
+          </div>
+
+        </div>
+      </div>
+      <div id="PaymentNotificationOverlay" class="hidden premium-popup" style="cursor: auto;">
+        <div class="dialog-content" style="cursor: auto;">
+          <div class="modal-header" style="cursor: auto;">
+            <p style="cursor: auto;">become premium today</p>
+            <span style="cursor: auto;">Get unlimited access to all Lumin's features</span>
+          </div>
+          <div class="modal-body" style="cursor: auto;">
+            <div class="buttonRow" style="cursor: auto;">
+              <button class="overlayButton" style="cursor: auto;"><span data-l10n-id="document_properties_close" style="cursor: auto;">Subscribe for $2.99/month</span></button>
+              <a id="paymentNotificationClose" href="https://www.luminpdf.com/viewer/Db769bdeEjMPCXJP3" style="cursor: auto;">No, thanks!</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="documentPropertiesOverlay" class="container hidden" style="cursor: auto;">
+        <div class="dialog-content" style="cursor: auto;">
+          <div class="modal-header" style="cursor: auto;">
+            <i class="icon-info" style="cursor: auto;"></i>
+            <span id="colortext" style="cursor: auto;">document properties</span>
+          </div>
+          <div class="dialog" style="cursor: auto;">
+            <div class="row" style="cursor: auto;">
+              <span data-l10n-id="document_properties_file_name" style="cursor: auto;">File name:</span>
+              <p id="fileNameField" style="cursor: auto;">-</p>
+            </div>
+            <div class="row" style="cursor: auto;">
+              <span data-l10n-id="document_properties_file_size" style="cursor: auto;">File size:</span>
+              <p id="fileSizeField" style="cursor: auto;">-</p>
+            </div>
+            <div class="separator" style="cursor: auto;"></div>
+            <div class="row" style="cursor: auto;">
+              <span data-l10n-id="document_properties_title" style="cursor: auto;">Title:</span>
+              <p id="titleField" style="cursor: auto;">-</p>
+            </div>
+            <div class="row" style="cursor: auto;">
+              <span data-l10n-id="document_properties_author" style="cursor: auto;">Author:</span>
+              <p id="authorField" style="cursor: auto;">-</p>
+            </div>
+            <div class="row" style="cursor: auto;">
+              <span data-l10n-id="document_properties_subject" style="cursor: auto;">Subject:</span>
+              <p id="subjectField" style="cursor: auto;">-</p>
+            </div>
+            <div class="row" style="cursor: auto;">
+              <span data-l10n-id="document_properties_keywords" style="cursor: auto;">Keywords:</span>
+              <p id="keywordsField" style="cursor: auto;">-</p>
+            </div>
+            <div class="row" style="cursor: auto;">
+              <span data-l10n-id="document_properties_creation_date" style="cursor: auto;">Creation Date:</span>
+              <p id="creationDateField" style="cursor: auto;">-</p>
+            </div>
+            <div class="row" style="cursor: auto;">
+              <span data-l10n-id="document_properties_modification_date" style="cursor: auto;">Modification Date:</span>
+              <p id="modificationDateField" style="cursor: auto;">-</p>
+            </div>
+            <div class="row" style="cursor: auto;">
+              <span data-l10n-id="document_properties_creator" style="cursor: auto;">Creator:</span>
+              <p id="creatorField" style="cursor: auto;">-</p>
+            </div>
+            <div class="separator" style="cursor: auto;"></div>
+            <div class="row" style="cursor: auto;">
+              <span data-l10n-id="document_properties_producer" style="cursor: auto;">PDF Producer:</span>
+              <p id="producerField" style="cursor: auto;">-</p>
+            </div>
+            <div class="row" style="cursor: auto;">
+              <span data-l10n-id="document_properties_version" style="cursor: auto;">PDF Version:</span>
+              <p id="versionField" style="cursor: auto;">-</p>
+            </div>
+            <div class="row" style="cursor: auto;">
+              <span data-l10n-id="document_properties_page_count" style="cursor: auto;">Page Count:</span>
+              <p id="pageCountField" style="cursor: auto;">-</p>
+            </div>
+            <div class="buttonRow" style="cursor: auto;">
+              <button id="documentPropertiesClose" class="overlayButton" style="cursor: auto;"><span data-l10n-id="document_properties_close" style="cursor: auto;">Done</span></button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- download overlay -->
+      <div id="downloadPDFOverLay" class="container hidden pdfOverLay" style="cursor: auto;">
+        <div class="pdfOverLay dialog-content" style="cursor: auto;">
+          <div class="modal-header download" style="cursor: auto;">
+            <i class="icon-download" style="cursor: auto;"></i>
+            <span id="colortext" style="cursor: auto;">Download Document</span>
+            <i class="btn-close icon-popup_close" id="downloadPDFClose" style="cursor: auto;"></i>
+          </div>
+          <div class="dialog-download" style="cursor: auto;">
+            <div style="cursor: auto;">
+              <p style="cursor: auto;">Output Type:</p>
+              <select id="selectDownloadFileType" style="cursor: auto;">
+                
+              </select>
+            </div>
+            <div class="option-box one" style="cursor: auto;">
+              <h2 class="title" style="cursor: auto;">
+                <input type="radio" id="radiobtnDownloadWithAnnotations" name="download-option" style="cursor: auto;">
+                <span style="cursor: auto;">With Annotations</span>
+              </h2>
+              <div class="option-img" style="cursor: auto;">
+                <img src="./oblig_forside_2017_files/with_annotations.png" alt="" style="cursor: auto;">
+              </div>
+            </div>
+            <div class="option-box two" style="cursor: auto;">
+              <h2 class="title" style="cursor: auto;">
+                <input type="radio" id="radiobtnDownloadWithoutAnnotations" name="download-option" style="cursor: auto;">
+                <span style="cursor: auto;">Without Annotations</span>
+              </h2>
+              <div class="option-img" style="cursor: auto;">
+                <img src="./oblig_forside_2017_files/without_annotations.png" alt="" style="cursor: auto;">
+              </div>
+            </div>
+            <br style="cursor: auto;">
+            <br style="cursor: auto;">
+            <br style="cursor: auto;">
+            <div style="cursor: auto;">
+              <a id="btnStartDownloadFile" class="btn-download" href="https://www.luminpdf.com/viewer/Db769bdeEjMPCXJP3" style="cursor: auto;">Download</a>
+            </div>
+          </div>
+          <div class="dialog-downloading" style="display: none; cursor: auto;">
+            <div class="file-info" style="cursor: auto;">
+              <p class="file-name" id="preparingLabelDownload" style="cursor: auto;">Preparing...</p>
+              <span style="cursor: auto;">( With Annotations )</span>
+            </div>
+            <div id="slide-process" style="cursor: auto;">
+              <div id="locading-process-download" class="slide-process" style="cursor: auto;"></div>
+            </div>
+            <p class="notification" style="cursor: auto;">Please wait while we process your file. Processing time depends on your file size...</p>
+          </div>
+        </div>
+      </div>
+      <!-- print overlay -->
+      <div id="PrintPDFOverLay" class="container hidden pdfOverLay print-pdf" style="cursor: auto;">
+        <div class="dialog-content" style="cursor: auto;">
+          <div class="modal-header print" style="cursor: auto;">
+            <i class="icon-print" style="cursor: auto;"></i>
+            <span id="colortext" style="cursor: auto;">Print</span>
+            <i class="btn-close icon-popup_close" id="printPDFClose" style="cursor: auto;"></i>
+          </div>
+          <div class="dialog-download" style="cursor: auto;">
+            <p style="cursor: auto;">Print Options</p>
+            <div class="option-box one" style="cursor: auto;">
+              <h2 class="title" style="cursor: auto;">
+                <input type="radio" id="printWithAnnotations" name="download-option" style="cursor: auto;">
+                <span style="cursor: auto;">With Annotations</span>
+              </h2>
+              <div class="option-img" style="cursor: auto;">
+                <img src="./oblig_forside_2017_files/with_annotations.png" alt="" style="cursor: auto;">
+              </div>
+            </div>
+            <div class="option-box two" style="cursor: auto;">
+              <h2 class="title" style="cursor: auto;">
+                <input type="radio" checked="" id="printWithoutAnnotations" name="download-option" style="cursor: auto;">
+                <span style="cursor: auto;">Without Annotations</span>
+              </h2>
+              <div class="option-img" style="cursor: auto;">
+                <img src="./oblig_forside_2017_files/without_annotations.png" alt="" style="cursor: auto;">
+              </div>
+            </div>
+            <br style="cursor: auto;">
+            <br style="cursor: auto;">
+            <br style="cursor: auto;">
+            <div style="cursor: auto;">
+              <a id="btnPrintFile" class="btn-download" href="https://www.luminpdf.com/viewer/Db769bdeEjMPCXJP3" style="cursor: auto;">Print</a>
+            </div>
+          </div>
+          <div class="dialog-downloading" style="display: none; cursor: auto;">
+            <div class="file-info" style="cursor: auto;">
+              <p class="file-name" id="preparingLabelPrint" style="cursor: auto;">Preparing...</p>
+              <span style="cursor: auto;">( With Annotations )</span>
+            </div>
+            <div id="slide-process" style="cursor: auto;">
+              <div id="locading-process-print" class="slide-process" style="cursor: auto;"></div>
+            </div>
+            <p class="notification" style="cursor: auto;">Please wait while we process your file. Processing time depends on your file size...</p>
+          </div>
+        </div>
+      </div>
+      <!-- request signature overlay -->
+      <div id="RequestSignatureOverLay" class="container hidden pdfOverLay" style="cursor: auto;">
+        <div class="dialog-content" style="cursor: auto;">
+        <div class="modal-header print" style="cursor: auto;">
+            <i class="icon-print" style="cursor: auto;"></i>
+            <span style="cursor: auto;">Request Signature</span>
+            <i class="btn-close icon-popup_close" id="requestSignatureOverLayClose" style="cursor: auto;"></i>
+        </div>
+        <div class="dialog-download" style="cursor: auto;">
+            <div class="support-page sign-in-page contact-page" style="height: 300px; cursor: auto;">
+                <div class="row" style="cursor: auto;">
+                    <div class="col-md-1" style="cursor: auto;"></div>
+                    <div class="col-md-10" style="cursor: auto;">
+                        <div class="content-right" style="cursor: auto;">
+                            <h3 style="cursor: auto;">Information</h3>
+                            <form id="requestSignForm" class="entry-form" style="cursor: auto;">
+                                <div class="form-group" style="text-align: left; cursor: auto;">
+                                    <label style="cursor: auto;">Name</label>
+                                    <input type="text" id="txtRequesterName" name="txtRequesterName" placeholder="Sophia White" class="form-control" autofocus="" style="cursor: auto;">
+                                </div>
+                                <div class="form-group" style="text-align: left; cursor: auto;">
+                                    <label style="cursor: auto;">Email</label>
+                                    <input type="text" id="txtRequesterEmail" name="txtRequesterEmail" placeholder="name@domain.com" class="form-control" style="cursor: auto;">
+                                </div>
+                                <div class="form-group" style="text-align: left; cursor: auto;">
+                                    <button type="submit" name="btnRequestSave" value="Save" class="submit btn
+                                           btn-block btn-default" style="cursor: auto;">Save</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+      </div>
+      <!-- sharing overlay -->
+      <div id="sharingOverLay" class="container hidden pdfOverLay" style="cursor: auto;">
+        <div class="dialog-content" style="cursor: auto;">
+          <div class="modal-header sharing" style="cursor: auto;">
+            <i class="icon-share" style="cursor: auto;"></i>
+            <span style="cursor: auto;">Sharing</span>
+            <i class="btn-close icon-popup_close" id="sharingClose" style="cursor: auto;"></i>
+          </div>
+          <div class="dialog-download" style="cursor: auto;">
+            <div class="sharing-row" style="cursor: auto;">
+              <span class="title" style="cursor: auto;">URL</span>
+              <input id="share-url" class="sharing-url" type="text" readonly="" style="cursor: auto;">
+              <a id="copyShareLink" class="copy-url-sharing" style="cursor: auto;">copy</a>
+            </div>
+            <div class="sharing-row" style="cursor: auto;">
+              <span class="title" style="cursor: auto;">Who has access</span>
+              <div class="share-access-list" style="cursor: auto;">
+                <div class="sharing-row" style="cursor: auto;">
+                  
+                </div>
+              </div>
+            </div>
+            <div class="sharing-row" style="cursor: auto;">
+              <span class="title" style="cursor: auto;">Email (on <span style="color: rgb(240, 59, 67); cursor: auto;">Lumin</span>)</span>
+              <input name="emails" class="email-people" type="text" placeholder="Email addresses, separate by ," style="cursor: auto;">
+            </div>
+            <div class="sharing-row permission-access" style="cursor: auto;">
+              <label for="read-permission" style="cursor: auto;">
+                <input id="read-permission" name="access-right" class="access-right" type="radio" value="read" checked="" style="cursor: auto;">
+                Read
+              </label>
+              <label for="write-permission" style="cursor: auto;">
+                <input id="write-permission" name="access-right" class="access-right" type="radio" value="write" style="cursor: auto;">
+                Write
+              </label>
+            </div>
+            <div class="sharing-row share-doc-btn-row" style="cursor: auto;">
+              <button id="btn-share-document" class="btn overlayButton ladda-button" style="cursor: auto;">
+                Done
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- overlayContainer -->
+    </div>
+    <!-- enjoy modal-->
+    <div class="slice-up-modal" id="enjoy-pdf" style="cursor: auto;">
+      <div class="slide-up-content" style="cursor: auto;">
+        <p style="cursor: auto;">
+          Enjoying <span style="cursor: auto;">Lumin PDF</span> ?
+        </p>
+        <button id="chrome-install" class="slide-up-button" style="cursor: auto;">
+          install chrome app
+        </button>
+        <span id="close-modal-notice" class="fa fa-times" style="cursor: auto;"></span>
+      </div>
+    </div>
+    <!-- donate modal -->
+    <div class="slice-up-modal" id="donate-pdf" style="cursor: auto;">
+      <div class="slide-up-content" style="cursor: auto;">
+        <p style="cursor: auto;">
+          Keep <span style="cursor: auto;">Lumin PDF</span> free.
+        </p>
+        <button id="donate-now" class="slide-up-button" style="cursor: auto;">
+          Donate Now
+        </button>
+        <button class="close-modal-donate-pdf fa fa-times" style="cursor: auto;"></button>
+      </div>
+    </div>
+    <!--rate app-->
+    <div class="slice-up-modal" id="rate-pdf" style="cursor: auto;">
+      <div class="slide-up-content" style="cursor: auto;">
+        <p style="cursor: auto;">
+          Enjoy <span style="cursor: auto;">Lumin PDF</span>.
+        </p>
+        <button id="rate-now" class="slide-up-button" style="cursor: auto;">
+          Rate our app
+        </button>
+        <span id="close-modal-notice" class="fa fa-times" style="cursor: auto;"></span>
+      </div>
+    </div>
+    <!--rate app-->
+    <div class="slice-up-modal" id="better-pdf" style="cursor: auto;">
+      <div class="slide-up-content" style="cursor: auto;">
+        <p style="cursor: auto;">
+          Think we could do better?
+        </p>
+        <button id="send-feedback" class="slide-up-button" style="cursor: auto;">
+          Send feedback
+        </button>
+        <span id="close-modal-notice" class="fa fa-times" style="cursor: auto;"></span>
+      </div>
+    </div>
+    <!--premium app-->
+    <div class="slice-up-modal" id="notice-premium" style="cursor: auto;">
+      <div class="slide-up-content" style="cursor: auto;">
+        <p style="cursor: auto;">
+          This feature requires Lumin Premium.
+        </p>
+        <button id="go-premium" class="slide-up-button" style="cursor: auto;">
+          Go premium
+        </button>
+        <span id="close-modal-notice" class="fa fa-times" style="cursor: auto;"></span>
+      </div>
+    </div>
+    <!-- login app -->
+    <div class="slice-up-modal" id="require-login" style="cursor: auto;">
+      <div class="slide-up-content" style="cursor: auto;">
+        <p style="cursor: auto;">
+          Please sign in before editing this document
+        </p>
+        <button id="go-login" class="slide-up-button" style="cursor: auto;">
+          Login
+        </button>
+        <span id="close-modal-notice" class="fa fa-times" style="cursor: auto;"></span>
+      </div>
+    </div>
+    <!--access deny-->
+    <div class="slice-up-modal" id="access-denied" style="cursor: auto;">
+      <div class="slide-up-content" style="cursor: auto;">
+        <p style="cursor: auto;">
+          You do not have permission to edit this document
+        </p>
+        <button id="close-denied" class="slide-up-button" style="cursor: auto;">
+          Close
+        </button>
+        <span id="close-modal-notice" class="fa fa-times" style="cursor: auto;"></span>
+      </div>
+    </div>
+    <!---->
+  </div>
+  <!-- outerContainer -->
+  <div id="printContainer" style="cursor: auto;"></div>
+  <div id="mozPrintCallback-shim" hidden="" style="cursor: auto;">
+    <style scoped="" style="cursor: auto;">
+      #mozPrintCallback-shim {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        z-index: 9999999;
+        display: block;
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.5);
+      }
+      #mozPrintCallback-shim[hidden] {
+        display: none;
+      }
+      @media print {
+        #mozPrintCallback-shim {
+          display: none;
+        }
+      }
+      #mozPrintCallback-shim .mozPrintCallback-dialog-box {
+        display: inline-block;
+        margin: -50px auto 0;
+        position: relative;
+        top: 45%;
+        left: 0;
+        min-width: 220px;
+        max-width: 400px;
+        padding: 9px;
+        border: 1px solid hsla(0, 0%, 0%, .5);
+        border-radius: 2px;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+        background-color: #474747;
+        color: hsl(0, 0%, 85%);
+        font-size: 16px;
+        line-height: 20px;
+      }
+      #mozPrintCallback-shim .progress-row {
+        clear: both;
+        padding: 1em 0;
+      }
+      #mozPrintCallback-shim progress {
+        width: 100%;
+      }
+      #mozPrintCallback-shim .relative-progress {
+        clear: both;
+        float: right;
+      }
+      #mozPrintCallback-shim .progress-actions {
+        clear: both;
+      }
+    </style>
+    <div class="mozPrintCallback-dialog-box" style="cursor: auto;">
+      <!-- TODO: Localise the following strings -->
+      Preparing document for printing...
+      <div class="progress-row" style="cursor: auto;">
+        <progress value="0" max="100" style="cursor: auto;"></progress>
+        <span class="relative-progress" style="cursor: auto;">0%</span>
+      </div>
+      <div class="progress-actions" style="cursor: auto;">
+        <input type="button" value="Cancel" class="mozPrintCallback-cancel" style="cursor: auto;">
+      </div>
+    </div>
+  </div>
+        <!-- Modal -->
+  <div class="modal fade" id="ratingModal" tabindex="-1" role="dialog" aria-labelledby="ratingModalLabel" aria-hidden="true" style="cursor: auto;">
+    <div class="modal-dialog modal-rating-dialog" style="cursor: auto;">
+      <div class="modal-content modal-rating-content" style="cursor: auto;">
+        <img class="lumin-logo-rating-modal" src="./oblig_forside_2017_files/lumin-logo-modal.png" alt="" style="cursor: auto;">
+        <div class="modal-header" style="cursor: auto;">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="cursor: auto;"><span aria-hidden="true" style="cursor: auto;">×</span></button>
+          <h4 class="modal-title rating-modal-title" id="ratingModalLabel" style="cursor: auto;">Thank you!</h4>
+        </div>
+        
+  
+    
+    
+  
+      </div>
+    </div>
+  </div>
+    
+    <ul class="vertical-custom-menu" id="signZoneActionBar" style="cursor: auto;">
+        <li data-action="save" style="cursor: auto;">
+            <i class="glyphicon glyphicon-floppy-saved" title="Save" style="cursor: auto;"></i>
+        </li>
+        <li data-action="erase" style="cursor: auto;">
+            <i class="glyphicon glyphicon-erase" title="Erase" style="cursor: auto;"></i>
+        </li>
+    </ul>
+    <ul class="vertical-custom-menu" id="signZoneInfoBar" style="cursor: auto;">
+        <li data-action="save" style="cursor: auto;">
+            <i class="glyphicon glyphicon-user" title="user" style="cursor: auto;"></i>
+            <span id="signZoneInfoBar-user" style="cursor: auto;"></span>
+        </li>
+    </ul><iframe name="oauth2relay1248556505" id="oauth2relay1248556505" src="./oblig_forside_2017_files/postmessageRelay.html" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px; cursor: auto;"></iframe><iframe id="apiproxy348e86f417302ac58dbf51728641fed538f3b1b20.521004224138454" name="apiproxy348e86f417302ac58dbf51728641fed538f3b1b20.521004224138454" src="./oblig_forside_2017_files/proxy.html" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px; display: none; cursor: auto;"></iframe><input id="fileInput" class="fileInput" type="file" style="cursor: auto;"></body></html>

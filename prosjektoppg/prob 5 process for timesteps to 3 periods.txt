@@ -1,0 +1,11 @@
+k = 10
+m = 0.02
+import numpy as np
+dt = 0.8*np.sqrt(float(m/k))
+f = np.sqrt(k/m)*(3.5/200)
+T = 3/f
+n = T/dt
+print n
+214.285714286
+
+# round off to 215
